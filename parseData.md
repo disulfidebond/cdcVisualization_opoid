@@ -8,6 +8,8 @@
 
 
        # run in Bash
+       # Be warned that GNU bash may not corretly pull the files, I was unable to fully figure out why.  
+       # BSD bash did not have this problem
        for i in {6..16} ; do
          if ((i>9)) ; then
            CSTRING=$(echo "https://www.cdc.gov/drugoverdose/maps/rxcounty200${i}.html") ;
