@@ -24,31 +24,45 @@
        sleep $RANDVAL ; 
        done
 
-2) To parse the files, I used python:
+2) To clean and parse the files, I used python:
 
-
-       #!/usr/bin/python
-
+       try:
+	    type(sys.argv[1])
+       except IndexError:
+	    print('Error, please add an input File')
+	    sys.exit()
+       if len(sys.argv) > 2:
+           print('Warning, only one can be used.  Proceeding with the first listed file: ')
+	    print(str(sys.argv[1]))
+           
+       inputFile = sys.argv[1]
        l = []
-       with open('testoutput.txt', 'r') as f:
+       with open(inputFile, 'r') as f:
        for i in f:
            i = i.rstrip('\r\n')
            s = i[4:]
            sList = s.split('<')
            l.append(sList[0])
-
        llen = len(l)
-       ct = 2
-       d = dict()
-       while ct < llen:
-           vIntLow = ct - 2
-            vIntHigh = ct + 2
-            k = l[ct]
-            v = l[vIntLow:vIntHigh]
-            d[k] = v
-            ct += 4
+       for itm in l:
+           print(itm)
+ 
 
-       for k,v in d.items():
-           o = ','.join(v)
-            print(str(k) + ',' + str(o))
-       
+  [A better and more robust example is here](https://github.com/disulfidebond/cdcVisualization_opoid/blob/master/cleanCDCdata.py).
+
+3) Before going any further, we needed to establish the variables, the contrasts for the variables, and the experimental hypotheses:
+
+    * y<sub>1</sub> = # of opoid prescriptions in rural areas
+    
+    * y<sub>2</sub> = # of opoid prescriptions in urban areas
+    
+    * x = time
+    
+    * H<sub>0</sub> : there is no difference in the number of opoid prescriptions in rural and urban areas    
+    
+    * H<sub>A</sub> : there is a difference in the number of opoid prescriptions in rural and urban areas
+    
+
+    
+    
+    
