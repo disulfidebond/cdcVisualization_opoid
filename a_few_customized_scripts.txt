@@ -1,0 +1,96 @@
+# list of 50 states was created by copying and pasting from Wikipidea, then spot-checking for accuracy and formatting
+
+ARR50=($(<listOf50states.txt))
+for i in "${ARR50[@]}" ; do
+  CVAL=$(echo "https://en.wikipedia.org/wiki/List_of_counties_in_${i}") ; 
+  curl -O ${CVAL} ; 
+  PARSENAME=$(echo ${CVAL} | rev | cut -d/ -f1 | rev) ; 
+  let RANDVAL=$RANDOM%4 ; 
+  sleep $RANDVAL ; 
+  grep '<td>' ${PARSENAME} > ${PARSENAME}.parsed ; 
+done
+
+####
+# a list of City, County, State was extracted using perl
+
+#!/usr/bin/perl -w
+use Data::Dumper;
+
+# UnComment both to have DataDumper output Hash as Key:Value
+# $Data::Dumper::Useqq= 1;
+# $Data::Dumper::Pair = " : ";
+
+# uncomment and add appropriate values for input file
+my $f = pop @ARGV;
+
+open (my $fh, "<", $f) or die "cannot open file $!\n";
+
+
+my @a;
+# for my $line (<STDIN>) {
+#	chomp $line;
+#	push @a, $line;
+# }
+
+# close STDIN;
+while (<$fh>) {
+	chomp;
+	push @a, $_;
+}
+close $fh;
+
+my $aLength = @a;
+
+for (my $i=0; $i < $aLength; $i++) {
+	my $checkLine = $a[$i];
+	my $countyName = "";
+	my $cityName = "";
+	my $stateName = "";
+	if ($checkLine =~ m/ County<\/a><\/td>/) {
+		if ($checkLine =~ m/>(\w+\s+[\w|\s]*)</) {
+			$countyName = $1;
+		} else {
+			if ($checkLine =~ m/>(\w+[-|\.|\s]+\w+\s\w+)</) {
+				$countyName = $1;	
+			} else {
+				print "Error parsing line $checkLine\n";
+				next;
+			}
+		}
+		if ($checkLine =~ m/_(\w+\s*\w*)"/) {
+			$stateName = $1;		
+		}
+		my $nextLine = $a[$i+2];
+		if ($nextLine =~ m/>(\w+)</) {
+			$cityName = $1;
+		} elsif ($nextLine =~ m/>(\w+\s+[\w|\s]*)</) {
+			$cityName = $1;
+		} else {
+			if ($nextLine =~ m/(\w+[-|\.|\s]+[\w+\s]*\w+)</) {
+				$cityName = $1;
+			} else {
+				print "Error parsing value $nextLine\n";
+				next;			
+			}
+		}
+		my $countyCityString = "$countyName,$cityName,$stateName";
+		push @b, $countyCityString;
+		$i = $i+2;
+	}
+}
+my $fout = "$f.txt";
+open (my $fho, ">", $fout) or die "cannot open outfile $!\n"; 
+foreach (@b) {
+	my $sout = "$_\n";
+	print $fho $sout;
+}
+close $fho;
+
+####
+# finally, python was again employed to match county to city, and create "urban" and "rural" flags.
+
+
+
+# the output list had to be curated and was error-prone, however, all that was needed was to match the 
+# high-population cities to their counties and flag these as urban, all the remaining would be flagged as rural
+
