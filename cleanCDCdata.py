@@ -19,24 +19,29 @@ def main():
 			s = i[4:]
 			sList = s.split('<')
 			l.append(sList[0])
-	
+
 	llen = len(l)
-	ct = 2
+	ct = 1 # for cty use 2
 	d = dict()
 	while ct < llen:
-		vIntLow = ct - 2
+		vIntLow = ct - 1 # for cty use -2
 		vIntHigh = ct + 2
 		k = l[ct]
 		v = l[vIntLow:vIntHigh]
-		tmp = v[0]
-		tmpSplit = tmp.split(',')
-		v[0] = tmpSplit[0]
+		# uncomment the following lines for cty		
+		# tmp = v[0]
+		# tmpSplit = tmp.split(',')
+		# v[0] = tmpSplit[0]
 		d[k] = v
-		ct += 4
+		ct += 3 # for cty use 4
 
 	for k,v in d.items():
 		o = ','.join(v)
 		print(str(k) + ',' + str(o))
+
+
+if __name__ == "__main__":
+	main()
 
 
 if __name__ == "__main__":
