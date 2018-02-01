@@ -62,7 +62,15 @@
     
     * H<sub>A</sub> : there is a difference in the number of opoid prescriptions in rural and urban areas
     
+4) Next, the data for the counties needed to be sorted and classified.
 
+  * Since classifying rural and urban was outside the scope of this experiment, a simplified approach was employed.
+  
+  * A listing of the [500 largest cities](https://www.cdc.gov/500cities/pdf/500-cities-listed-by-state.pdf) in the US from the US Census bureau was used; this included all 50 states.
+  
+    * The cities were mapped back to the counties using [a few customized scripts](https://github.com/disulfidebond/cdcVisualization_opoid/blob/master/a_few_customized_scripts.txt), which created a list of rural and urban datapoints.
+    
+  
     
     
     
