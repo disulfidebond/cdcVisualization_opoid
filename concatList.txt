@@ -1,0 +1,2714 @@
+Autauga County,Prattville,Alabama
+Baldwin County,Bay Minette,Alabama
+Barbour County,Clayton,Alabama
+Bibb County,Centreville,Alabama
+Blount County,Oneonta,Alabama
+Bullock County,Union Springs,Alabama
+Butler County,Greenville,Alabama
+Calhoun County,Anniston,Alabama
+Chambers County,LaFayette,Alabama
+Cherokee County,Centre,Alabama
+Chilton County,Clanton,Alabama
+Choctaw County,Butler,Alabama
+Clarke County,Grove Hill,Alabama
+Clay County,Ashland,Alabama
+Cleburne County,Heflin,Alabama
+Coffee County,Elba,Alabama
+Colbert County,Tuscumbia,Alabama
+Conecuh County,Evergreen,Alabama
+Coosa County,Rockford,Alabama
+Covington County,Andalusia,Alabama
+Crenshaw County,Luverne,Alabama
+Cullman County,Cullman,Alabama
+Dale County,Ozark,Alabama
+Dallas County,Selma,Alabama
+DeKalb County,Fort Payne,Alabama
+Elmore County,Wetumpka,Alabama
+Escambia County,Brewton,Alabama
+Etowah County,Gadsden,Alabama
+Fayette County,Fayette,Alabama
+Franklin County,Russellville,Alabama
+Geneva County,Geneva,Alabama
+Greene County,Eutaw,Alabama
+Hale County,Greensboro,Alabama
+Henry County,Abbeville,Alabama
+Houston County,Dothan,Alabama
+Jackson County,Scottsboro,Alabama
+Jefferson County,Birmingham,Alabama
+Lamar County,Vernon,Alabama
+Lauderdale County,Florence,Alabama
+Lawrence County,Moulton,Alabama
+Lee County,Opelika,Alabama
+Limestone County,Athens,Alabama
+Lowndes County,Hayneville,Alabama
+Macon County,Tuskegee,Alabama
+Madison County,Huntsville,Alabama
+Marengo County,Linden,Alabama
+Marion County,Hamilton,Alabama
+Marshall County,Guntersville,Alabama
+Mobile County,Mobile,Alabama
+Monroe County,Monroeville,Alabama
+Montgomery County,Montgomery,Alabama
+Morgan County,Decatur,Alabama
+Perry County,Marion,Alabama
+Pickens County,Carrollton,Alabama
+Pike County,Troy,Alabama
+Randolph County,Wedowee,Alabama
+Russell County,Phenix City,Alabama
+St. Clair County,Ashville,Alabama
+Shelby County,Columbiana,Alabama
+Sumter County,Livingston,Alabama
+Talladega County,Talladega,Alabama
+Tallapoosa County,Dadeville,Alabama
+Tuscaloosa County,Tuscaloosa,Alabama
+Walker County,Jasper,Alabama
+Washington County,Chatom,Alabama
+Wilcox County,Camden,Alabama
+Winston County,Double Springs,Alabama
+Apache County,St. Johns,Arizona
+Cochise County,Bisbee,Arizona
+Coconino County,Flagstaff,Arizona
+Gila County,Globe,Arizona
+Graham County,Safford,Arizona
+Greenlee County,Clifton,Arizona
+La Paz County,Parker,Arizona
+Maricopa County,Phoenix,Arizona
+Mohave County,Kingman,Arizona
+Navajo County,Holbrook,Arizona
+Pima County,Tucson,Arizona
+Pinal County,Florence,Arizona
+Santa Cruz County,Nogales,Arizona
+Yavapai County,Prescott,Arizona
+Yuma County,Yuma,Arizona
+Arkansas County,De Witt,Arkansas
+Ashley County,Hamburg,Arkansas
+Baxter County,Mountain Home,Arkansas
+Benton County,Bentonville,Arkansas
+Boone County,Harrison,Arkansas
+Bradley County,Warren,Arkansas
+Calhoun County,Hampton,Arkansas
+Carroll County,Berryville,Arkansas
+Chicot County,Lake Village,Arkansas
+Clark County,Arkadelphia,Arkansas
+Clay County,Piggott,Arkansas
+Cleburne County,Heber Springs,Arkansas
+Cleveland County,Rison,Arkansas
+Columbia County,Magnolia,Arkansas
+Conway County,Morrilton,Arkansas
+Craighead County,Jonesboro,Arkansas
+Crawford County,Van Buren,Arkansas
+Crittenden County,Marion,Arkansas
+Cross County,Wynne,Arkansas
+Dallas County,Fordyce,Arkansas
+Desha County,Arkansas City,Arkansas
+Drew County,Monticello,Arkansas
+Faulkner County,Conway,Arkansas
+Franklin County,Ozark,Arkansas
+Fulton County,Salem,Arkansas
+Garland County,Hot Springs,Arkansas
+Grant County,Sheridan,Arkansas
+Greene County,Paragould,Arkansas
+Hempstead County,Hope,Arkansas
+Hot Spring County,Malvern,Arkansas
+Howard County,Nashville,Arkansas
+Independence County,Batesville,Arkansas
+Izard County,Melbourne,Arkansas
+Jackson County,Newport,Arkansas
+Jefferson County,Pine Bluff,Arkansas
+Johnson County,Clarksville,Arkansas
+Lafayette County,Lewisville,Arkansas
+Lawrence County,Walnut Ridge,Arkansas
+Lee County,Marianna,Arkansas
+Lincoln County,Star City,Arkansas
+Little River County,Ashdown,Arkansas
+Logan County,Booneville,Arkansas
+Lonoke County,Lonoke,Arkansas
+Madison County,Huntsville,Arkansas
+Marion County,Yellville,Arkansas
+Miller County,Texarkana,Arkansas
+Mississippi County,Blytheville,Arkansas
+Monroe County,Clarendon,Arkansas
+Montgomery County,Mount Ida,Arkansas
+Nevada County,Prescott,Arkansas
+Newton County,Jasper,Arkansas
+Ouachita County,Camden,Arkansas
+Perry County,Perryville,Arkansas
+Phillips County,Helena,Arkansas
+Pike County,Murfreesboro,Arkansas
+Poinsett County,Harrisburg,Arkansas
+Polk County,Mena,Arkansas
+Pope County,Russellville,Arkansas
+Prairie County,Des Arc,Arkansas
+Pulaski County,Little Rock,Arkansas
+Randolph County,Pocahontas,Arkansas
+St. Francis County,Forrest City,Arkansas
+Saline County,Benton,Arkansas
+Scott County,Waldron,Arkansas
+Searcy County,Marshall,Arkansas
+Sebastian County,Greenwood,Arkansas
+Sevier County,De Queen,Arkansas
+Sharp County,Ash Flat,Arkansas
+Stone County,Mountain View,Arkansas
+Union County,El Dorado,Arkansas
+Van Buren County,Clinton,Arkansas
+Washington County,Fayetteville,Arkansas
+White County,Searcy,Arkansas
+Woodruff County,Augusta,Arkansas
+Yell County,Danville,Arkansas
+Alameda County,Oakland,California
+Alpine County,Markleeville,California
+Amador County,Jackson,California
+Butte County,Oroville,California
+Calaveras County,San Andreas,California
+Colusa County,Colusa,California
+Contra Costa County,Martinez,California
+Del Norte County,Crescent City,California
+El Dorado County,Placerville,California
+Fresno County,Fresno,California
+Glenn County,Willows,California
+Humboldt County,Eureka,California
+Imperial County,El Centro,California
+Inyo County,Independence,California
+Kern County,Bakersfield,California
+Kings County,Hanford,California
+Lake County,Lakeport,California
+Lassen County,Susanville,California
+Los Angeles County,Los Angeles,California
+Madera County,Madera,California
+Marin County,San Rafael,California
+Mariposa County,Mariposa,California
+Mendocino County,Ukiah,California
+Merced County,Merced,California
+Modoc County,Alturas,California
+Mono County,Bridgeport,California
+Monterey County,Salinas,California
+Napa County,Napa,California
+Nevada County,Nevada City,California
+Orange County,Santa Ana,California
+Placer County,Auburn,California
+Plumas County,Quincy,California
+Riverside County,Riverside,California
+Sacramento County,Sacramento,California
+San Benito County,Hollister,California
+San Bernardino County,San Bernardino,California
+San Diego County,San Diego,California
+San Joaquin County,Stockton,California
+San Luis Obispo County,San Luis Obispo,California
+San Mateo County,Redwood City,California
+Santa Barbara County,Santa Barbara,California
+Santa Clara County,San Jose,California
+Santa Cruz County,Santa Cruz,California
+Shasta County,Redding,California
+Sierra County,Downieville,California
+Siskiyou County,Yreka,California
+Solano County,Fairfield,California
+Sonoma County,Santa Rosa,California
+Stanislaus County,Modesto,California
+Sutter County,Yuba City,California
+Tehama County,Red Bluff,California
+Trinity County,Weaverville,California
+Tulare County,Visalia,California
+Tuolumne County,Sonora,California
+Ventura County,Ventura,California
+Yolo County,Woodland,California
+Yuba County,Marysville,California
+Adams County,Brighton,Colorado
+Alamosa County,Alamosa,Colorado
+Arapahoe County,Littleton,Colorado
+Archuleta County,Pagosa Springs,Colorado
+Baca County,Springfield,Colorado
+Bent County,Las Animas,Colorado
+Boulder County,Boulder,Colorado
+Chaffee County,Salida,Colorado
+Cheyenne County,Cheyenne Wells,Colorado
+Clear Creek County,Georgetown,Colorado
+Conejos County,Conejos,Colorado
+Costilla County,San Luis,Colorado
+Crowley County,Ordway,Colorado
+Custer County,Westcliffe,Colorado
+Delta County,Delta,Colorado
+Dolores County,Dove Creek,Colorado
+Douglas County,Castle Rock,Colorado
+Eagle County,Eagle,Colorado
+El Paso County,Colorado Springs,Colorado
+Elbert County,Kiowa,Colorado
+Fremont County,on City,Colorado
+Garfield County,Glenwood Springs,Colorado
+Gilpin County,Central City,Colorado
+Grand County,Hot Sulphur Springs,Colorado
+Gunnison County,Gunnison,Colorado
+Hinsdale County,Lake City,Colorado
+Huerfano County,Walsenburg,Colorado
+Jackson County,Walden,Colorado
+Jefferson County,Golden,Colorado
+Kiowa County,Eads,Colorado
+Kit Carson County,Burlington,Colorado
+La Plata County,Durango,Colorado
+Lake County,Leadville,Colorado
+Larimer County,Fort Collins,Colorado
+Las Animas County,Trinidad,Colorado
+Lincoln County,Hugo,Colorado
+Logan County,Sterling,Colorado
+Mesa County,Grand Junction,Colorado
+Mineral County,Creede,Colorado
+Moffat County,Craig,Colorado
+Montezuma County,Cortez,Colorado
+Montrose County,Montrose,Colorado
+Morgan County,Fort Morgan,Colorado
+Otero County,La Junta,Colorado
+Ouray County,Ouray,Colorado
+Park County,Fairplay,Colorado
+Phillips County,Holyoke,Colorado
+Pitkin County,Aspen,Colorado
+Prowers County,Lamar,Colorado
+Pueblo County,Pueblo,Colorado
+Rio Blanco County,Meeker,Colorado
+Rio Grande County,Del Norte,Colorado
+Routt County,Steamboat Springs,Colorado
+Saguache County,Saguache,Colorado
+San Juan County,Silverton,Colorado
+San Miguel County,Telluride,Colorado
+Sedgwick County,Julesburg,Colorado
+Summit County,Breckenridge,Colorado
+Teller County,Cripple Creek,Colorado
+Washington County,Akron,Colorado
+Weld County,Greeley,Colorado
+Yuma County,Wray,Colorado
+Adams County,map,Colorado
+Alamosa County,map,Colorado
+Arapahoe County,map,Colorado
+Archuleta County,map,Colorado
+Baca County,map,Colorado
+Bent County,map,Colorado
+Boulder County,map,Colorado
+Chaffee County,map,Colorado
+Cheyenne County,map,Colorado
+Clear Creek County,map,Colorado
+Conejos County,map,Colorado
+Costilla County,map,Colorado
+Crowley County,map,Colorado
+Custer County,map,Colorado
+Delta County,map,Colorado
+Dolores County,map,Colorado
+Douglas County,map,Colorado
+Eagle County,map,Colorado
+Elbert County,map,Colorado
+El Paso County,map,Colorado
+Fremont County,map,Colorado
+Garfield County,map,Colorado
+Gilpin County,map,Colorado
+Grand County,map,Colorado
+Gunnison County,map,Colorado
+Hinsdale County,map,Colorado
+Huerfano County,map,Colorado
+Jackson County,map,Colorado
+Jefferson County,map,Colorado
+Kiowa County,map,Colorado
+Kit Carson County,map,Colorado
+Lake County,map,Colorado
+La Plata County,map,Colorado
+Larimer County,map,Colorado
+Las Animas County,map,Colorado
+Lincoln County,map,Colorado
+Logan County,map,Colorado
+Mesa County,map,Colorado
+Mineral County,map,Colorado
+Moffat County,map,Colorado
+Montezuma County,map,Colorado
+Montrose County,map,Colorado
+Morgan County,map,Colorado
+Otero County,map,Colorado
+Ouray County,map,Colorado
+Park County,map,Colorado
+Phillips County,map,Colorado
+Pitkin County,map,Colorado
+Prowers County,map,Colorado
+Pueblo County,map,Colorado
+Rio Blanco County,map,Colorado
+Rio Grande County,map,Colorado
+Routt County,map,Colorado
+San Juan County,map,Colorado
+San Miguel County,map,Colorado
+Sedgwick County,map,Colorado
+Summit County,map,Colorado
+Teller County,map,Colorado
+Washington County,map,Colorado
+Weld County,map,Colorado
+Yuma County,map,Colorado
+Taos County,Spanish,
+Great Salt Lake County,Territory of Colorado,
+Green River County,Territory of Colorado,Utah_Territory
+Iron County,Territory of Colorado,
+Sanpete County,Territory of Colorado,
+Utah County,Territory of Colorado,
+Washington County,Territory of Colorado,
+Arapahoe County,Kansas,Kansas_Territory
+Beaver County,Iron,Utah
+Broderick County,Kansas,Kansas_Territory
+El Paso County,Kansas,Kansas_Territory
+Fremont County,Kansas,Kansas_Territory
+Montana County,Kansas,Kansas_Territory
+Oro County,Kansas,Kansas_Territory
+Peketon County,Kansas,Kansas_Territory
+Arrappahoe County,One of the 12 counties created by the extralegal ,Jefferson_Territory
+Cheyenne County,One of the 12 counties created by the extralegal ,Jefferson_Territory
+El Paso County,One of the 12 counties created by the extralegal ,Jefferson_Territory
+Fountain County,One of the 12 counties created by the extralegal ,Jefferson_Territory
+Heele County,One of the 12 counties created by the extralegal ,Jefferson_Territory
+Jackson County,One of the 12 counties created by the extralegal ,Jefferson_Territory
+Jefferson County,One of the 12 counties created by the extralegal ,Jefferson_Territory
+Mountain County,One of the 12 counties created by the extralegal ,Jefferson_Territory
+North County,One of the 12 counties created by the extralegal ,Jefferson_Territory
+Park County,One of the 12 counties created by the extralegal ,Jefferson_Territory
+Saint Vrain County,One of the 12 counties created by the extralegal ,Jefferson_Territory
+Saratoga County,One of the 12 counties created by the extralegal ,Jefferson_Territory
+Mora County,Split from ,
+Guadalupe County,One of the 17 original counties created by the ,Colorado_Territory
+Greenwood County,Created from former Cheyenne and Arapaho tribal land and the eastern portion of ,Colorado_Territory
+Platte County,Created from the eastern portion of ,Colorado_Territory
+Carbonate County,Lake County,Colorado
+Uncompaghre County,Ouray County,Colorado
+South Arapahoe County,One of three counties created from ,Colorado
+Arrappahoe County,Cheyenne County,Jefferson_Territory
+El Paso County,Fountain County,Jefferson_Territory
+Heele County,Jackson County,Jefferson_Territory
+Jefferson County,Mountain County,Jefferson_Territory
+North County,Park County,Jefferson_Territory
+Saratoga County,Arapahoe County,Jefferson_Territory
+Boulder County,Clear Creek County,Colorado
+Costilla County,Douglas County,Colorado
+El Paso County,Fremont County,Colorado
+Gilpin County,Guadaloupe County,Colorado
+Huerfano County,Jefferson County,Colorado
+Lake County,Larimer County,Colorado
+Park County,Pueblo County,Colorado
+Summit County,Weld County,Colorado
+Alamosa County,Boulder County,Colorado
+Conejos County,Delta County,Colorado
+Eagle County,Gunnison County,Colorado
+Montrose County,Ouray County,Colorado
+Pueblo County,Saguache County,Colorado
+Cheyenne County,Morgan County,Colorado
+Archuleta County,Bent County,Colorado
+Hinsdale County,Jackson County,Colorado
+Lake County,Mineral County,Colorado
+San Juan County,Adams County,Colorado
+Weld County,City of Littleton,Colorado
+Douglas County,Central City,Colorado
+Clear Creek County,Colorado,Colorado
+Hinsdale County,Lake County,Colorado
+Mineral County,Summit County,Colorado
+Clear Creek County,Pitkin County,Colorado
+Chaffee County,Park County,Colorado
+Gunnison County,Gilpin County,Colorado
+Grand County,Saguache County,Colorado
+Teller County,Rio Grande County,Colorado
+Custer County,Eagle County,Colorado
+Ouray County,Jackson County,Colorado
+Conejos County,Costilla County,Colorado
+Taos County,Summit County,New_Mexico
+Dolores County,Archuleta County,Colorado
+Fairfield County,Bridgeport,Connecticut
+Hartford County,Hartford,Connecticut
+Litchfield County,Litchfield,Connecticut
+Middlesex County,Middletown,Connecticut
+New Haven County,New Haven,Connecticut
+New London County,New London,Connecticut
+Tolland County,Rockville,Connecticut
+Windham County,Willimantic,Connecticut
+Kent County,Dover,Delaware
+New Castle County,Wilmington,Delaware
+Sussex County,Georgetown,Delaware
+Alachua County,Gainesville,Florida
+Baker County,Macclenny,Florida
+Bay County,Panama City,Florida
+Bradford County,Starke,Florida
+Brevard County,Titusville,Florida
+Broward County,Fort Lauderdale,Florida
+Calhoun County,Blountstown,Florida
+Charlotte County,Punta Gorda,Florida
+Citrus County,Inverness,Florida
+Clay County,Green Cove Springs,Florida
+Collier County,East Naples,Florida
+Columbia County,Lake City,Florida
+DeSoto County,Arcadia,Florida
+Dixie County,Cross City,Florida
+Duval County,Jacksonville,Florida
+Escambia County,Pensacola,Florida
+Flagler County,Bunnell,Florida
+Franklin County,Apalachicola,Florida
+Gadsden County,Quincy,Florida
+Gilchrist County,Trenton,Florida
+Glades County,Moore Haven,Florida
+Gulf County,St. Joe,Florida
+Hamilton County,Jasper,Florida
+Hardee County,Wauchula,Florida
+Hendry County,LaBelle,Florida
+Hernando County,Brooksville,Florida
+Highlands County,Sebring,Florida
+Hillsborough County,Tampa,Florida
+Holmes County,Bonifay,Florida
+Indian River County,Vero Beach,Florida
+Jackson County,Marianna,Florida
+Jefferson County,Monticello,Florida
+Lafayette County,Mayo,Florida
+Lake County,Tavares,Florida
+Lee County,Fort Myers,Florida
+Leon County,Tallahassee,Florida
+Levy County,Bronson,Florida
+Liberty County,Bristol,Florida
+Madison County,Madison,Florida
+Manatee County,Bradenton,Florida
+Marion County,Ocala,Florida
+Martin County,Stuart,Florida
+Miami-Dade County,Miami,Florida
+Monroe County,Key West,Florida
+Nassau County,Fernandina Beach,Florida
+Okaloosa County,Crestview,Florida
+Okeechobee County,Okeechobee,Florida
+Orange County,Orlando,Florida
+Osceola County,Kissimmee,Florida
+Palm Beach County,West Palm Beach,Florida
+Pasco County,Dade City,Florida
+Pinellas County,Clearwater,Florida
+Polk County,Bartow,Florida
+Putnam County,Palatka,Florida
+St. Johns County,St. Augustine,Florida
+St. Lucie County,Fort Pierce,Florida
+Santa Rosa County,Milton,Florida
+Sarasota County,Sarasota,Florida
+Seminole County,Sanford,Florida
+Sumter County,Bushnell,Florida
+Suwannee County,Live Oak,Florida
+Taylor County,Perry,Florida
+Union County,Lake Butler,Florida
+Volusia County,DeLand,Florida
+Wakulla County,Crawfordville,Florida
+Walton County,DeFuniak Springs,Florida
+Washington County,Chipley,Florida
+Benton County,Thomas Benton,Florida
+Dade County,Major,Florida
+Mosquito County,Spanish,Florida
+New River County,The ,Florida
+St. Lucie County,Saint Lucy,
+Bloxham County,13th and 17th Governor of Florida,Florida
+Leigh Read County,Leigh Read,Florida
+proposed renaming of ,1947,Florida
+Ocean County,Atlantic Ocean,
+Appling County,Baxley,Georgia
+Atkinson County,Pearson,Georgia
+Bacon County,Alma,Georgia
+Baker County,Newton,Georgia
+Baldwin County,Milledgeville,Georgia
+Banks County,Homer,Georgia
+Barrow County,Winder,Georgia
+Bartow County,Cartersville,Georgia
+Ben Hill County,Fitzgerald,Georgia
+Berrien County,Nashville,Georgia
+Bibb County,Macon,Georgia
+Bleckley County,Cochran,Georgia
+Brantley County,Nahunta,Georgia
+Brooks County,Quitman,Georgia
+Bryan County,Pembroke,Georgia
+Bulloch County,Statesboro,Georgia
+Burke County,Waynesboro,Georgia
+Butts County,Jackson,Georgia
+Calhoun County,Morgan,Georgia
+Camden County,Woodbine,Georgia
+Candler County,Metter,Georgia
+Carroll County,Carrollton,Georgia
+Catoosa County,Ringgold,Georgia
+Charlton County,Folkston,Georgia
+Chatham County,Savannah,Georgia
+Chattahoochee County,Cusseta,Georgia
+Chattooga County,Summerville,Georgia
+Cherokee County,Canton,Georgia
+Clarke County,Athens,Georgia
+Clay County,Fort Gaines,Georgia
+Clayton County,Jonesboro,Georgia
+Clinch County,Homerville,Georgia
+Cobb County,Marietta,Georgia
+Coffee County,Douglas,Georgia
+Colquitt County,Moultrie,Georgia
+Columbia County,Appling,Georgia
+Cook County,Adel,Georgia
+Coweta County,Newnan,Georgia
+Crawford County,Knoxville,Georgia
+Crisp County,Cordele,Georgia
+Dade County,Trenton,Georgia
+Dawson County,Dawsonville,Georgia
+Decatur County,Bainbridge,Georgia
+DeKalb County,Decatur,Georgia
+Dodge County,Eastman,Georgia
+Dooly County,Vienna,Georgia
+Dougherty County,Albany,Georgia
+Douglas County,Douglasville,Georgia
+Early County,Blakely,Georgia
+Echols County,Statenville,Georgia
+Effingham County,Springfield,Georgia
+Elbert County,Elberton,Georgia
+Emanuel County,Swainsboro,Georgia
+Evans County,Claxton,Georgia
+Fannin County,Blue Ridge,Georgia
+Fayette County,Fayetteville,Georgia
+Floyd County,Rome,Georgia
+Forsyth County,Cumming,Georgia
+Franklin County,Carnesville,Georgia
+Fulton County,Atlanta,Georgia
+Gilmer County,Ellijay,Georgia
+Glascock County,Gibson,Georgia
+Glynn County,Brunswick,Georgia
+Gordon County,Calhoun,Georgia
+Grady County,Cairo,Georgia
+Greene County,Greensboro,Georgia
+Gwinnett County,Lawrenceville,Georgia
+Habersham County,Clarkesville,Georgia
+Hall County,Gainesville,Georgia
+Hancock County,Sparta,Georgia
+Haralson County,Buchanan,Georgia
+Harris County,Hamilton,Georgia
+Hart County,Hartwell,Georgia
+Heard County,Franklin,Georgia
+Henry County,McDonough,Georgia
+Houston County,Perry,Georgia
+Irwin County,Ocilla,Georgia
+Jackson County,Jefferson,Georgia
+Jasper County,Monticello,Georgia
+Jeff Davis County,Hazlehurst,Georgia
+Jefferson County,Louisville,Georgia
+Jenkins County,Millen,Georgia
+Johnson County,Wrightsville,Georgia
+Jones County,Gray,Georgia
+Lamar County,Barnesville,Georgia
+Lanier County,Lakeland,Georgia
+Laurens County,Dublin,Georgia
+Lee County,Leesburg,Georgia
+Liberty County,Hinesville,Georgia
+Lincoln County,Lincolnton,Georgia
+Long County,Ludowici,Georgia
+Lowndes County,Valdosta,Georgia
+Lumpkin County,Dahlonega,Georgia
+Macon County,Oglethorpe,Georgia
+Madison County,Danielsville,Georgia
+Marion County,Buena Vista,Georgia
+McDuffie County,Thomson,Georgia
+McIntosh County,Darien,Georgia
+Meriwether County,Greenville,Georgia
+Miller County,Colquitt,Georgia
+Mitchell County,Camilla,Georgia
+Monroe County,Forsyth,Georgia
+Montgomery County,Mount Vernon,Georgia
+Morgan County,Madison,Georgia
+Murray County,Chatsworth,Georgia
+Muscogee County,Columbus,Georgia
+Newton County,Covington,Georgia
+Oconee County,Watkinsville,Georgia
+Oglethorpe County,Lexington,Georgia
+Paulding County,Dallas,Georgia
+Peach County,Fort Valley,Georgia
+Pickens County,Jasper,Georgia
+Pierce County,Blackshear,Georgia
+Pike County,Zebulon,Georgia
+Polk County,Cedartown,Georgia
+Pulaski County,Hawkinsville,Georgia
+Putnam County,Eatonton,Georgia
+Quitman County,Georgetown,Georgia
+Rabun County,Clayton,Georgia
+Randolph County,Cuthbert,Georgia
+Richmond County,Augusta,Georgia
+Rockdale County,Conyers,Georgia
+Schley County,Ellaville,Georgia
+Screven County,Sylvania,Georgia
+Seminole County,Donalsonville,Georgia
+Spalding County,Griffin,Georgia
+Stephens County,Toccoa,Georgia
+Stewart County,Lumpkin,Georgia
+Sumter County,Americus,Georgia
+Talbot County,Talbotton,Georgia
+Taliaferro County,Crawfordville,Georgia
+Tattnall County,Reidsville,Georgia
+Taylor County,Butler,Georgia
+Telfair County,McRae,Georgia
+Terrell County,Dawson,Georgia
+Thomas County,Thomasville,Georgia
+Tift County,Tifton,Georgia
+Toombs County,Lyons,Georgia
+Towns County,Hiawassee,Georgia
+Treutlen County,Soperton,Georgia
+Troup County,LaGrange,Georgia
+Turner County,Ashburn,Georgia
+Twiggs County,Jeffersonville,Georgia
+Union County,Blairsville,Georgia
+Upson County,Thomaston,Georgia
+Walker County,Lafayette,Georgia
+Walton County,Monroe,Georgia
+Ware County,Waycross,Georgia
+Warren County,Warrenton,Georgia
+Washington County,Sandersville,Georgia
+Wayne County,Jesup,Georgia
+Webster County,Preston,Georgia
+Wheeler County,Alamo,Georgia
+White County,Cleveland,Georgia
+Whitfield County,Dalton,Georgia
+Wilcox County,Abbeville,Georgia
+Wilkes County,Washington,Georgia
+Wilkinson County,Irwinton,Georgia
+Worth County,Sylvester,Georgia
+Hawaii County,Hilo,Hawaii
+Maui County,Wailuku,Hawaii
+Ada County,Boise,Idaho
+Adams County,Council,Idaho
+Bannock County,Pocatello,Idaho
+Bear Lake County,Paris,Idaho
+Benewah County,St. Maries,Idaho
+Bingham County,Blackfoot,Idaho
+Blaine County,Hailey,Idaho
+Boise County,Idaho City,Idaho
+Bonner County,Sandpoint,Idaho
+Bonneville County,Idaho Falls,Idaho
+Boundary County,Bonners Ferry,Idaho
+Butte County,Arco,Idaho
+Camas County,Fairfield,Idaho
+Canyon County,Caldwell,Idaho
+Caribou County,Soda Springs,Idaho
+Cassia County,Burley,Idaho
+Clark County,Dubois,Idaho
+Clearwater County,Orofino,Idaho
+Custer County,Challis,Idaho
+Elmore County,Mountain Home,Idaho
+Alturas County,gold,Idaho
+Franklin County,Preston,Idaho
+Fremont County,Saint Anthony,Idaho
+Gem County,Emmett,Idaho
+Gooding County,Gooding,Idaho
+Idaho County,Grangeville,Idaho
+Jefferson County,Rigby,Idaho
+Jerome County,Jerome,Idaho
+Latah County,Moscow,Idaho
+Lemhi County,Salmon,Idaho
+Lewis County,Nezperce,Idaho
+Lincoln County,Shoshone,Idaho
+Madison County,Rexburg,Idaho
+Minidoka County,Rupert,Idaho
+Nez Perce County,Lewiston,Idaho
+Oneida County,Malad City,Idaho
+Owyhee County,Murphy,Idaho
+Payette County,Payette,Idaho
+Power County,American Falls,Idaho
+Shoshone County,Wallace,Idaho
+Teton County,Driggs,Idaho
+Twin Falls County,Twin Falls,Idaho
+Valley County,Cascade,Idaho
+Washington County,Weiser,Idaho
+Adams County,Quincy,Illinois
+Alexander County,Cairo,Illinois
+Bond County,Greenville,Illinois
+Boone County,Belvidere,Illinois
+Brown County,Mount Sterling,Illinois
+Bureau County,Princeton,Illinois
+Calhoun County,Hardin,Illinois
+Carroll County,Mount Carroll,Illinois
+Cass County,Virginia,Illinois
+Champaign County,Urbana,Illinois
+Christian County,Taylorville,Illinois
+Clark County,Marshall,Illinois
+Clay County,Louisville,Illinois
+Clinton County,Carlyle,Illinois
+Coles County,Charleston,Illinois
+Cook County,Chicago,Illinois
+Crawford County,Robinson,Illinois
+Cumberland County,Toledo,Illinois
+DeKalb County,Sycamore,Illinois
+DeWitt County,Clinton,Illinois
+Douglas County,Tuscola,Illinois
+DuPage County,Wheaton,Illinois
+Edgar County,Paris,Illinois
+Edwards County,Albion,Illinois
+Effingham County,Effingham,Illinois
+Fayette County,Vandalia,Illinois
+Ford County,Paxton,Illinois
+Franklin County,Benton,Illinois
+Fulton County,Lewistown,Illinois
+Gallatin County,Shawneetown,Illinois
+Greene County,Carrollton,Illinois
+Grundy County,Morris,Illinois
+Hamilton County,McLeansboro,Illinois
+Hancock County,Carthage,Illinois
+Hardin County,Elizabethtown,Illinois
+Henderson County,Oquawka,Illinois
+Henry County,Cambridge,Illinois
+Iroquois County,Watseka,Illinois
+Jackson County,Murphysboro,Illinois
+Jasper County,Newton,Illinois
+Jefferson County,Mount Vernon,Illinois
+Jersey County,Jerseyville,Illinois
+Jo Daviess County,Galena,Illinois
+Johnson County,Vienna,Illinois
+Kane County,Geneva,Illinois
+Kankakee County,Kankakee,Illinois
+Kendall County,Yorkville,Illinois
+Knox County,Galesburg,Illinois
+Lake County,Waukegan,Illinois
+LaSalle County,Ottawa,Illinois
+Lawrence County,Lawrenceville,Illinois
+Lee County,Dixon,Illinois
+Livingston County,Pontiac,Illinois
+Logan County,Lincoln,Illinois
+Macon County,Decatur,Illinois
+Macoupin County,Carlinville,Illinois
+Madison County,Edwardsville,Illinois
+Marion County,Salem,Illinois
+Marshall County,Lacon,Illinois
+Mason County,Havana,Illinois
+Massac County,Metropolis,Illinois
+McDonough County,Macomb,Illinois
+McHenry County,Woodstock,Illinois
+McLean County,Bloomington,Illinois
+Menard County,Petersburg,Illinois
+Mercer County,Aledo,Illinois
+Monroe County,Waterloo,Illinois
+Montgomery County,Hillsboro,Illinois
+Morgan County,Jacksonville,Illinois
+Moultrie County,Sullivan,Illinois
+Ogle County,Oregon,Illinois
+Peoria County,Peoria,Illinois
+Perry County,Pinckneyville,Illinois
+Piatt County,Monticello,Illinois
+Pike County,Pittsfield,Illinois
+Pope County,Golconda,Illinois
+Pulaski County,Mound City,Illinois
+Putnam County,Hennepin,Illinois
+Randolph County,Chester,Illinois
+Richland County,Olney,Illinois
+Rock Island County,Rock Island,Illinois
+Saline County,Harrisburg,Illinois
+Sangamon County,Springfield,Illinois
+Schuyler County,Rushville,Illinois
+Scott County,Winchester,Illinois
+Shelby County,Shelbyville,Illinois
+St. Clair County,Belleville,Illinois
+Stark County,Toulon,Illinois
+Stephenson County,Freeport,Illinois
+Tazewell County,Pekin,Illinois
+Union County,Jonesboro,Illinois
+Vermilion County,Danville,Illinois
+Wabash County,Mount Carmel,Illinois
+Warren County,Monmouth,Illinois
+Washington County,Nashville,Illinois
+Wayne County,Fairfield,Illinois
+White County,Carmi,Illinois
+Whiteside County,Morrison,Illinois
+Will County,Joliet,Illinois
+Williamson County,Marion,Illinois
+Winnebago County,Rockford,Illinois
+Woodford County,Eureka,Illinois
+Adams County,Decatur,Indiana
+Allen County,Fort Wayne,Indiana
+Bartholomew County,Columbus,Indiana
+Benton County,Fowler,Indiana
+Jasper County,4,Indiana
+Blackford County,Hartford City,Indiana
+Jay County,5,Indiana
+Boone County,Lebanon,Indiana
+Brown County,Nashville,Indiana
+Carroll County,Delphi,Indiana
+Cass County,Logansport,Indiana
+Clark County,Jeffersonville,Indiana
+Knox County,10,Indiana
+Clay County,Brazil,Indiana
+Clinton County,Frankfort,Indiana
+Crawford County,English,Indiana
+Daviess County,Washington,Indiana
+Knox County,14,Indiana
+Dearborn County,Lawrenceburg,Indiana
+Decatur County,Greensburg,Indiana
+DeKalb County,Auburn,Indiana
+Delaware County,Muncie,Indiana
+Dubois County,Jasper,Indiana
+Elkhart County,Goshen,Indiana
+Fayette County,Connersville,Indiana
+Floyd County,New Albany,Indiana
+Fountain County,Covington,Indiana
+Franklin County,Brookville,Indiana
+Fulton County,Rochester,Indiana
+Gibson County,Princeton,Indiana
+Knox County,26,Indiana
+Grant County,Marion,Indiana
+Greene County,Bloomfield,Indiana
+Hamilton County,Noblesville,Indiana
+Hancock County,Greenfield,Indiana
+Harrison County,Corydon,Indiana
+Hendricks County,Danville,Indiana
+Henry County,New Castle,Indiana
+Howard County,Kokomo,Indiana
+Huntington County,Huntington,Indiana
+Jackson County,Brownstown,Indiana
+Jasper County,Rensselaer,Indiana
+Jay County,Portland,Indiana
+Jefferson County,Madison,Indiana
+Jennings County,Vernon,Indiana
+Johnson County,Franklin,Indiana
+Knox County,Vincennes,Indiana
+Kosciusko County,Warsaw,Indiana
+LaGrange County,LaGrange,Indiana
+Lake County,Crown Point,Indiana
+LaPorte County,LaPorte,Indiana
+Lawrence County,Bedford,Indiana
+Madison County,Anderson,Indiana
+Marion County,Indianapolis,Indiana
+Marshall County,Plymouth,Indiana
+Martin County,Shoals,Indiana
+Miami County,Peru,Indiana
+Monroe County,Bloomington,Indiana
+Montgomery County,Crawfordsville,Indiana
+Morgan County,Martinsville,Indiana
+Newton County,Kentland,Indiana
+Noble County,Albion,Indiana
+Ohio County,Rising Sun,Indiana
+Orange County,Paoli,Indiana
+Owen County,Spencer,Indiana
+Parke County,Rockville,Indiana
+Perry County,Tell City,Indiana
+Pike County,Petersburg,Indiana
+Porter County,Valparaiso,Indiana
+Posey County,Mount Vernon,Indiana
+Gibson County,65,Indiana
+Pulaski County,Winamac,Indiana
+Putnam County,Greencastle,Indiana
+Randolph County,Winchester,Indiana
+Ripley County,Versailles,Indiana
+Rush County,Rushville,Indiana
+St. Joseph County,South Bend,Indiana
+Scott County,Scottsburg,Indiana
+Shelby County,Shelbyville,Indiana
+Spencer County,Rockport,Indiana
+Starke County,Knox,Indiana
+Steuben County,Angola,Indiana
+Sullivan County,Sullivan,Indiana
+Switzerland County,Vevay,Indiana
+Tippecanoe County,Lafayette,Indiana
+Tipton County,Tipton,Indiana
+Union County,Liberty,Indiana
+Vanderburgh County,Evansville,Indiana
+Vermillion County,Newport,Indiana
+Vigo County,Terre Haute,Indiana
+Wabash County,Wabash,Indiana
+Warren County,Williamsport,Indiana
+Warrick County,Boonville,Indiana
+Washington County,Salem,Indiana
+Wayne County,Richmond,Indiana
+Wells County,Bluffton,Indiana
+White County,Monticello,Indiana
+Whitley County,Columbia City,Indiana
+Adair County,Greenfield,Iowa
+Adams County,Corning,Iowa
+Allamakee County,Waukon,Iowa
+Appanoose County,Centerville,Iowa
+Audubon County,Audubon,Iowa
+Benton County,Vinton,Iowa
+Black Hawk County,Waterloo,Iowa
+Boone County,Boone,Iowa
+Bremer County,Waverly,Iowa
+Buchanan County,Independence,Iowa
+Buena Vista County,Storm Lake,Iowa
+Butler County,Allison,Iowa
+Calhoun County,Rockwell City,Iowa
+Carroll County,Carroll,Iowa
+Cass County,Atlantic,Iowa
+Cedar County,Tipton,Iowa
+Cerro Gordo County,Mason City,Iowa
+Cherokee County,Cherokee,Iowa
+Chickasaw County,New Hampton,Iowa
+Clarke County,Osceola,Iowa
+Clay County,Spencer,Iowa
+Clayton County,Elkader,Iowa
+Clinton County,Clinton,Iowa
+Crawford County,Denison,Iowa
+Dallas County,Adel,Iowa
+Davis County,Bloomfield,Iowa
+Decatur County,Leon,Iowa
+Delaware County,Manchester,Iowa
+Des Moines County,Burlington,Iowa
+Dickinson County,Spirit Lake,Iowa
+Dubuque County,Dubuque,Iowa
+Emmet County,Estherville,Iowa
+Fayette County,West Union,Iowa
+Floyd County,Charles City,Iowa
+Franklin County,Hampton,Iowa
+Fremont County,Sidney,Iowa
+Greene County,Jefferson,Iowa
+Grundy County,Grundy Center,Iowa
+Guthrie County,Guthrie Center,Iowa
+Hamilton County,Webster City,Iowa
+Hancock County,Garner,Iowa
+Hardin County,Eldora,Iowa
+Harrison County,Logan,Iowa
+Henry County,Mount Pleasant,Iowa
+Howard County,Cresco,Iowa
+Humboldt County,Dakota City,Iowa
+Ida County,Ida Grove,Iowa
+Iowa County,Marengo,Iowa
+Jackson County,Maquoketa,Iowa
+Jasper County,Newton,Iowa
+Jefferson County,Fairfield,Iowa
+Johnson County,Iowa City,Iowa
+Jones County,Anamosa,Iowa
+Keokuk County,Sigourney,Iowa
+Kossuth County,Algona,Iowa
+Lee County,Keokuk,Iowa
+Linn County,Cedar Rapids,Iowa
+Louisa County,Wapello,Iowa
+Lucas County,Chariton,Iowa
+Lyon County,Rock Rapids,Iowa
+Madison County,Winterset,Iowa
+Mahaska County,Oskaloosa,Iowa
+Marion County,Knoxville,Iowa
+Marshall County,Marshalltown,Iowa
+Mills County,Glenwood,Iowa
+Mitchell County,Osage,Iowa
+Monona County,Onawa,Iowa
+Monroe County,Albia,Iowa
+Montgomery County,Red Oak,Iowa
+Muscatine County,Muscatine,Iowa
+Osceola County,Sibley,Iowa
+Page County,Clarinda,Iowa
+Palo Alto County,Emmetsburg,Iowa
+Plymouth County,Le Mars,Iowa
+Pocahontas County,Pocahontas,Iowa
+Polk County,Des Moines,Iowa
+Pottawattamie County,Council Bluffs,Iowa
+Poweshiek County,Montezuma,Iowa
+Ringgold County,Mount Ayr,Iowa
+Sac County,Sac City,Iowa
+Scott County,Davenport,Iowa
+Shelby County,Harlan,Iowa
+Sioux County,Orange City,Iowa
+Story County,Nevada,Iowa
+Tama County,Toledo,Iowa
+Taylor County,Bedford,Iowa
+Union County,Creston,Iowa
+Van Buren County,Keosauqua,Iowa
+Wapello County,Ottumwa,Iowa
+Warren County,Indianola,Iowa
+Washington County,Washington,Iowa
+Wayne County,Corydon,Iowa
+Webster County,Fort Dodge,Iowa
+Winnebago County,Forest City,Iowa
+Winneshiek County,Decorah,Iowa
+Woodbury County,Sioux City,Iowa
+Worth County,Northwood,Iowa
+Wright County,Clarion,Iowa
+Allen County,Iola,Kansas
+Anderson County,Garnett,Kansas
+Atchison County,Atchison,Kansas
+Barber County,Medicine Lodge,Kansas
+Barton County,Great Bend,Kansas
+Bourbon County,Fort Scott,Kansas
+Brown County,Hiawatha,Kansas
+Butler County,El Dorado,Kansas
+Chase County,Cottonwood Falls,Kansas
+Chautauqua County,Sedan,Kansas
+Cherokee County,Columbus,Kansas
+Cheyenne County,Saint Francis,Kansas
+Clark County,Ashland,Kansas
+Clay County,Clay Center,Kansas
+Cloud County,Concordia,Kansas
+Coffey County,Burlington,Kansas
+Comanche County,Coldwater,Kansas
+Cowley County,Winfield,Kansas
+Crawford County,Girard,Kansas
+Decatur County,Oberlin,Kansas
+Dickinson County,Abilene,Kansas
+Doniphan County,Troy,Kansas
+Douglas County,Lawrence,Kansas
+Edwards County,Kinsley,Kansas
+Elk County,Howard,Kansas
+Ellis County,Hays,Kansas
+Ellsworth County,Ellsworth,Kansas
+Finney County,Garden City,Kansas
+Ford County,Dodge City,Kansas
+Franklin County,Ottawa,Kansas
+Geary County,Junction City,Kansas
+Gove County,Gove City,Kansas
+Graham County,Hill City,Kansas
+Grant County,Ulysses,Kansas
+Gray County,Cimarron,Kansas
+Greeley County,Tribune,Kansas
+Greenwood County,Eureka,Kansas
+Hamilton County,Syracuse,Kansas
+Harper County,Anthony,Kansas
+Harvey County,Newton,Kansas
+Haskell County,Sublette,Kansas
+Hodgeman County,Jetmore,Kansas
+Jackson County,Holton,Kansas
+Jefferson County,Oskaloosa,Kansas
+Jewell County,Mankato,Kansas
+Johnson County,Olathe,Kansas
+Kearny County,Lakin,Kansas
+Kingman County,Kingman,Kansas
+Kiowa County,Greensburg,Kansas
+Labette County,Oswego,Kansas
+Lane County,Dighton,Kansas
+Leavenworth County,Leavenworth,Kansas
+Lincoln County,Lincoln,Kansas
+Linn County,Mound City,Kansas
+Logan County,Oakley,Kansas
+Lyon County,Emporia,Kansas
+Marion County,Marion,Kansas
+Marshall County,Marysville,Kansas
+McPherson County,McPherson,Kansas
+Meade County,Meade,Kansas
+Miami County,Paola,Kansas
+Mitchell County,Beloit,Kansas
+Montgomery County,Independence,Kansas
+Morris County,Council Grove,Kansas
+Morton County,Elkhart,Kansas
+Nemaha County,Seneca,Kansas
+Neosho County,Erie,Kansas
+Ness County,Ness City,Kansas
+Norton County,Norton,Kansas
+Osage County,Lyndon,Kansas
+Osborne County,Osborne,Kansas
+Ottawa County,Minneapolis,Kansas
+Pawnee County,Larned,Kansas
+Phillips County,Phillipsburg,Kansas
+Pottawatomie County,Westmoreland,Kansas
+Pratt County,Pratt,Kansas
+Rawlins County,Atwood,Kansas
+Reno County,Hutchinson,Kansas
+Republic County,Belleville,Kansas
+Rice County,Lyons,Kansas
+Riley County,Manhattan,Kansas
+Rooks County,Stockton,Kansas
+Rush County,La Crosse,Kansas
+Russell County,Russell,Kansas
+Saline County,Salina,Kansas
+Scott County,Scott City,Kansas
+Sedgwick County,Wichita,Kansas
+Seward County,Liberal,Kansas
+Shawnee County,Topeka,Kansas
+Sheridan County,Hoxie,Kansas
+Sherman County,Goodland,Kansas
+Smith County,Smith Center,Kansas
+Stafford County,Saint John,Kansas
+Stanton County,Johnson City,Kansas
+Stevens County,Hugoton,Kansas
+Sumner County,Wellington,Kansas
+Thomas County,Colby,Kansas
+Trego County,WaKeeney,Kansas
+Wabaunsee County,Alma,Kansas
+Wallace County,Sharon Springs,Kansas
+Washington County,Washington,Kansas
+Wichita County,Leoti,Kansas
+Wilson County,Fredonia,Kansas
+Woodson County,Yates Center,Kansas
+Wyandotte County,Kansas City,Kansas
+Adair County,Columbia,Kentucky
+Allen County,Scottsville,Kentucky
+Anderson County,Lawrenceburg,Kentucky
+Ballard County,Wickliffe,Kentucky
+Barren County,Glasgow,Kentucky
+Bath County,Owingsville,Kentucky
+Bell County,Pineville,Kentucky
+Boone County,Burlington,Kentucky
+Bourbon County,Paris,Kentucky
+Boyd County,Catlettsburg,Kentucky
+Boyle County,Danville,Kentucky
+Bracken County,Brooksville,Kentucky
+Breathitt County,Jackson,Kentucky
+Breckinridge County,Hardinsburg,Kentucky
+Bullitt County,Shepherdsville,Kentucky
+Butler County,Morgantown,Kentucky
+Caldwell County,Princeton,Kentucky
+Calloway County,Murray,Kentucky
+Campbell County,Alexandria,Kentucky
+Carlisle County,Bardwell,Kentucky
+Carroll County,Carrollton,Kentucky
+Carter County,Grayson,Kentucky
+Casey County,Liberty,Kentucky
+Christian County,Hopkinsville,Kentucky
+Clark County,Winchester,Kentucky
+Clay County,Manchester,Kentucky
+Clinton County,Albany,Kentucky
+Crittenden County,Marion,Kentucky
+Cumberland County,Burkesville,Kentucky
+Daviess County,Owensboro,Kentucky
+Edmonson County,Brownsville,Kentucky
+Elliott County,Sandy Hook,Kentucky
+Estill County,Irvine,Kentucky
+Fayette County,Lexington,Kentucky
+Fleming County,Flemingsburg,Kentucky
+Floyd County,Prestonsburg,Kentucky
+Franklin County,Frankfort,Kentucky
+Fulton County,Hickman,Kentucky
+Gallatin County,Warsaw,Kentucky
+Garrard County,Lancaster,Kentucky
+Grant County,Williamstown,Kentucky
+Graves County,Mayfield,Kentucky
+Grayson County,Leitchfield,Kentucky
+Green County,Greensburg,Kentucky
+Greenup County,Greenup,Kentucky
+Hancock County,Hawesville,Kentucky
+Hardin County,Elizabethtown,Kentucky
+Harlan County,Harlan,Kentucky
+Harrison County,Cynthiana,Kentucky
+Hart County,Munfordville,Kentucky
+Henderson County,Henderson,Kentucky
+Henry County,New Castle,Kentucky
+Hickman County,Clinton,Kentucky
+Hopkins County,Madisonville,Kentucky
+Jackson County,McKee,Kentucky
+Jefferson County,Louisville,Kentucky
+Jessamine County,Nicholasville,Kentucky
+Johnson County,Paintsville,Kentucky
+Kenton County,Covington,Kentucky
+Knott County,Hindman,Kentucky
+Knox County,Barbourville,Kentucky
+LaRue County,Hodgenville,Kentucky
+Laurel County,London,Kentucky
+Lawrence County,Louisa,Kentucky
+Lee County,Beattyville,Kentucky
+Leslie County,Hyden,Kentucky
+Letcher County,Whitesburg,Kentucky
+Lewis County,Vanceburg,Kentucky
+Lincoln County,Stanford,Kentucky
+Livingston County,Smithland,Kentucky
+Logan County,Russellville,Kentucky
+Lyon County,Eddyville,Kentucky
+McCracken County,Paducah,Kentucky
+McCreary County,Whitley City,Kentucky
+McLean County,Calhoun,Kentucky
+Madison County,Richmond,Kentucky
+Magoffin County,Salyersville,Kentucky
+Marion County,Lebanon,Kentucky
+Marshall County,Benton,Kentucky
+Martin County,Inez,Kentucky
+Mason County,Maysville,Kentucky
+Meade County,Brandenburg,Kentucky
+Menifee County,Frenchburg,Kentucky
+Mercer County,Harrodsburg,Kentucky
+Metcalfe County,Edmonton,Kentucky
+Monroe County,Tompkinsville,Kentucky
+Montgomery County,Mount Sterling,Kentucky
+Morgan County,West Liberty,Kentucky
+Muhlenberg County,Greenville,Kentucky
+Nelson County,Bardstown,Kentucky
+Nicholas County,Carlisle,Kentucky
+Ohio County,Hartford,Kentucky
+Oldham County,La Grange,Kentucky
+Owen County,Owenton,Kentucky
+Owsley County,Booneville,Kentucky
+Pendleton County,Falmouth,Kentucky
+Perry County,Hazard,Kentucky
+Pike County,Pikeville,Kentucky
+Powell County,Stanton,Kentucky
+Pulaski County,Somerset,Kentucky
+Robertson County,Mount Olivet,Kentucky
+Rockcastle County,Mount Vernon,Kentucky
+Rowan County,Morehead,Kentucky
+Russell County,Jamestown,Kentucky
+Scott County,Georgetown,Kentucky
+Shelby County,Shelbyville,Kentucky
+Simpson County,Franklin,Kentucky
+Spencer County,Taylorsville,Kentucky
+Taylor County,Campbellsville,Kentucky
+Todd County,Elkton,Kentucky
+Trigg County,Cadiz,Kentucky
+Trimble County,Bedford,Kentucky
+Union County,Morganfield,Kentucky
+Warren County,Bowling Green,Kentucky
+Washington County,Springfield,Kentucky
+Wayne County,Monticello,Kentucky
+Webster County,Dixon,Kentucky
+Whitley County,Williamsburg,Kentucky
+Wolfe County,Campton,Kentucky
+Woodford County,Versailles,Kentucky
+Androscoggin County,Auburn,Maine
+Aroostook County,Houlton,Maine
+Cumberland County,Portland,Maine
+Franklin County,Farmington,Maine
+Hancock County,Ellsworth,Maine
+Kennebec County,Augusta,Maine
+Knox County,Rockland,Maine
+Lincoln County,Wiscasset,Maine
+Oxford County,Paris,Maine
+Penobscot County,Bangor,Maine
+Piscataquis County,Dover-Foxcroft,Maine
+Sagadahoc County,Bath,Maine
+Somerset County,Skowhegan,Maine
+Waldo County,Belfast,Maine
+Washington County,Machias,Maine
+York County,Alfred,Maine
+Allegany County,Cumberland,Maryland
+Anne Arundel County,Annapolis,Maryland
+Baltimore County,Towson,Maryland
+Calvert County,Prince Frederick,Maryland
+Caroline County,Denton,Maryland
+Carroll County,Westminster,Maryland
+Cecil County,Elkton,Maryland
+Charles County,La Plata,Maryland
+Dorchester County,Cambridge,Maryland
+Frederick County,Frederick,Maryland
+Garrett County,Oakland,Maryland
+Harford County,Bel Air,Maryland
+Howard County,Ellicott City,Maryland
+Kent County,Chestertown,Maryland
+Montgomery County,Rockville,Maryland
+Somerset County,Princess Anne,Maryland
+Talbot County,Easton,Maryland
+Washington County,Hagerstown,Maryland
+Wicomico County,Salisbury,Maryland
+Worcester County,Snow Hill,Maryland
+Barnstable County,Barnstable,Massachusetts
+Berkshire County,Pittsfield,Massachusetts
+Bristol County,Taunton,Massachusetts
+Dukes County,Edgartown,Massachusetts
+Essex County,Salem,Massachusetts
+Franklin County,Greenfield,Massachusetts
+Hampden County,Springfield,Massachusetts
+Hampshire County,Northampton,Massachusetts
+Middlesex County,Cambridge,Massachusetts
+Nantucket County,Nantucket,Massachusetts
+Norfolk County,Dedham,Massachusetts
+Plymouth County,Plymouth,Massachusetts
+Suffolk County,Boston,Massachusetts
+Worcester County,Worcester,Massachusetts
+Devonshire County,1675,Massachusetts
+Hancock County,1820,Maine
+Kennebec County,1820,Maine
+Lincoln County,1820,Maine
+Norfolk County,1679,Massachusetts_Colony
+Oxford County,1820,Maine
+Penobscot County,1820,Maine
+Somerset County,1820,Maine
+Washington County,1820,Maine
+York County,1820,Maine
+Alcona County,Harrisville,Michigan
+Alger County,Munising,Michigan
+Allegan County,Allegan,Michigan
+Alpena County,Alpena,Michigan
+Antrim County,Bellaire,Michigan
+Arenac County,Standish,Michigan
+Barry County,Hastings,Michigan
+Bay County,Bay City,Michigan
+Benzie County,Beulah,Michigan
+Berrien County,St. Joseph,Michigan
+Branch County,Coldwater,Michigan
+Calhoun County,Marshall,Michigan
+Cass County,Cassopolis,Michigan
+Charlevoix County,Charlevoix,Michigan
+Cheboygan County,Cheboygan,Michigan
+Chippewa County,Ste. Marie,Michigan
+Clare County,Harrison,Michigan
+Clinton County,St. Johns,Michigan
+Crawford County,Grayling,Michigan
+Delta County,Escanaba,Michigan
+Dickinson County,Iron Mountain,Michigan
+Eaton County,Charlotte,Michigan
+Emmet County,Petoskey,Michigan
+Genesee County,Flint,Michigan
+Gladwin County,Gladwin,Michigan
+Gogebic County,Bessemer,Michigan
+Grand Traverse County,Traverse City,Michigan
+Gratiot County,Ithaca,Michigan
+Hillsdale County,Hillsdale,Michigan
+Houghton County,Houghton,Michigan
+Huron County,Bad Axe,Michigan
+Ingham County,Mason,Michigan
+Ionia County,Ionia,Michigan
+Iosco County,Tawas City,Michigan
+Iron County,Crystal Falls,Michigan
+Isabella County,Mt. Pleasant,Michigan
+Jackson County,Jackson,Michigan
+Kalamazoo County,Kalamazoo,Michigan
+Kalkaska County,Kalkaska,Michigan
+Kent County,Grand Rapids,Michigan
+Keweenaw County,Eagle River,Michigan
+Lake County,Baldwin,Michigan
+Lapeer County,Lapeer,Michigan
+Leelanau County,Suttons Bay Township,Michigan
+Lenawee County,Adrian,Michigan
+Livingston County,Howell,Michigan
+Luce County,Newberry,Michigan
+Mackinac County,St. Ignace,Michigan
+Macomb County,Mt. Clemens,Michigan
+Manistee County,Manistee,Michigan
+Marquette County,Marquette,Michigan
+Mason County,Ludington,Michigan
+Mecosta County,Big Rapids,Michigan
+Menominee County,Menominee,Michigan
+Midland County,Midland,Michigan
+Missaukee County,Lake City,Michigan
+Monroe County,Monroe,Michigan
+Montcalm County,Stanton,Michigan
+Montmorency County,Atlanta,Michigan
+Muskegon County,Muskegon,Michigan
+Newaygo County,White Cloud,Michigan
+Oakland County,Pontiac,Michigan
+Oceana County,Hart,Michigan
+Ogemaw County,West Branch,Michigan
+Ontonagon County,Ontonagon,Michigan
+Osceola County,Reed City,Michigan
+Oscoda County,Mio,Michigan
+Otsego County,Gaylord,Michigan
+Ottawa County,Grand Haven,Michigan
+Presque Isle County,Rogers City,Michigan
+Roscommon County,Roscommon,Michigan
+Saginaw County,Saginaw,Michigan
+St. Clair County,Port Huron,Michigan
+St. Joseph County,Centreville,Michigan
+Sanilac County,Sandusky,Michigan
+Schoolcraft County,Manistique,Michigan
+Shiawassee County,Corunna,Michigan
+Tuscola County,Caro,Michigan
+Van Buren County,Paw Paw,Michigan
+Washtenaw County,Ann Arbor,Michigan
+Wayne County,Detroit,Michigan
+Wexford County,Cadillac,Michigan
+Aitkin County,Aitkin,Minnesota
+Anoka County,Anoka,Minnesota
+Becker County,Detroit Lakes,Minnesota
+Beltrami County,Bemidji,Minnesota
+Benton County,Foley,Minnesota
+Big Stone County,Ortonville,Minnesota
+Blue Earth County,Mankato,Minnesota
+Brown County,New Ulm,Minnesota
+Carlton County,Carlton,Minnesota
+Carver County,Chaska,Minnesota
+Cass County,Walker,Minnesota
+Chippewa County,Montevideo,Minnesota
+Chisago County,Center City,Minnesota
+Clay County,Moorhead,Minnesota
+Clearwater County,Bagley,Minnesota
+Cook County,Grand Marais,Minnesota
+Cottonwood County,Windom,Minnesota
+Crow Wing County,Brainerd,Minnesota
+Dakota County,Hastings,Minnesota
+Dodge County,Mantorville,Minnesota
+Douglas County,Alexandria,Minnesota
+Faribault County,Blue Earth,Minnesota
+Fillmore County,Preston,Minnesota
+Freeborn County,Albert Lea,Minnesota
+Goodhue County,Red Wing,Minnesota
+Grant County,Elbow Lake,Minnesota
+Hennepin County,Minneapolis,Minnesota
+Houston County,Caledonia,Minnesota
+Hubbard County,Park Rapids,Minnesota
+Isanti County,Cambridge,Minnesota
+Itasca County,Grand Rapids,Minnesota
+Jackson County,Jackson,Minnesota
+Kanabec County,Mora,Minnesota
+Kandiyohi County,Willmar,Minnesota
+Kittson County,Hallock,Minnesota
+Koochiching County,International Falls,Minnesota
+Lac qui Parle County,Madison,Minnesota
+Lake County,Two Harbors,Minnesota
+Lake of the Woods County,Baudette,Minnesota
+Le Sueur County,Le Center,Minnesota
+Lincoln County,Ivanhoe,Minnesota
+Lyon County,Marshall,Minnesota
+McLeod County,Glencoe,Minnesota
+Mahnomen County,Mahnomen,Minnesota
+Marshall County,Warren,Minnesota
+Martin County,Fairmont,Minnesota
+Meeker County,Litchfield,Minnesota
+Mille Lacs County,Milaca,Minnesota
+Morrison County,Little Falls,Minnesota
+Mower County,Austin,Minnesota
+Murray County,Slayton,Minnesota
+Nicollet County,St. Peter,Minnesota
+Nobles County,Worthington,Minnesota
+Norman County,Ada,Minnesota
+Olmsted County,Rochester,Minnesota
+Otter Tail County,Fergus Falls,Minnesota
+Pennington County,Thief River Falls,Minnesota
+Pine County,Pine City,Minnesota
+Pipestone County,Pipestone,Minnesota
+Polk County,Crookston,Minnesota
+Pope County,Glenwood,Minnesota
+Ramsey County,Saint Paul,Minnesota
+Red Lake County,Red Lake Falls,Minnesota
+Redwood County,Redwood Falls,Minnesota
+Renville County,Olivia,Minnesota
+Rice County,Faribault,Minnesota
+Rock County,Luverne,Minnesota
+Roseau County,Roseau,Minnesota
+Saint Louis County,Duluth,Minnesota
+Scott County,Shakopee,Minnesota
+Sherburne County,Elk River,Minnesota
+Sibley County,Gaylord,Minnesota
+Stearns County,St. Cloud,Minnesota
+Steele County,Owatonna,Minnesota
+Stevens County,Morris,Minnesota
+Swift County,Benson,Minnesota
+Todd County,Long Prairie,Minnesota
+Traverse County,Wheaton,Minnesota
+Wabasha County,Wabasha,Minnesota
+Wadena County,Wadena,Minnesota
+Waseca County,Waseca,Minnesota
+Washington County,Stillwater,Minnesota
+Watonwan County,St. James,Minnesota
+Wilkin County,Breckenridge,Minnesota
+Winona County,Winona,Minnesota
+Wright County,Buffalo,Minnesota
+Yellow Medicine County,Granite Falls,Minnesota
+Adams County,Natchez,Mississippi
+Alcorn County,Corinth,Mississippi
+Amite County,Liberty,Mississippi
+Attala County,Kosciusko,Mississippi
+Benton County,Ashland,Mississippi
+Bolivar County,Cleveland,Mississippi
+Calhoun County,Pittsboro,Mississippi
+Carroll County,Carrollton,Mississippi
+Chickasaw County,Houston,Mississippi
+Choctaw County,Ackerman,Mississippi
+Claiborne County,Port Gibson,Mississippi
+Clarke County,Quitman,Mississippi
+Clay County,West Point,Mississippi
+Coahoma County,Clarksdale,Mississippi
+Copiah County,Hazlehurst,Mississippi
+Covington County,Collins,Mississippi
+DeSoto County,Hernando,Mississippi
+Forrest County,Hattiesburg,Mississippi
+Franklin County,Meadville,Mississippi
+George County,Lucedale,Mississippi
+Greene County,Leakesville,Mississippi
+Grenada County,Grenada,Mississippi
+Hancock County,Bay Saint Louis,Mississippi
+Harrison County,Gulfport,Mississippi
+Hinds County,Raymond,Mississippi
+Holmes County,Lexington,Mississippi
+Humphreys County,Belzoni,Mississippi
+Issaquena County,Mayersville,Mississippi
+Itawamba County,Fulton,Mississippi
+Jackson County,Pascagoula,Mississippi
+Jasper County,Paulding,Mississippi
+Jefferson County,Fayette,Mississippi
+Jefferson Davis County,Prentiss,Mississippi
+Jones County,Laurel,Mississippi
+Kemper County,De Kalb,Mississippi
+Lafayette County,Oxford,Mississippi
+Lamar County,Purvis,Mississippi
+Lauderdale County,Meridian,Mississippi
+Lawrence County,Monticello,Mississippi
+Leake County,Carthage,Mississippi
+Lee County,Tupelo,Mississippi
+Leflore County,Greenwood,Mississippi
+Lincoln County,Brookhaven,Mississippi
+Lowndes County,Columbus,Mississippi
+Madison County,Canton,Mississippi
+Marion County,Columbia,Mississippi
+Marshall County,Holly Springs,Mississippi
+Monroe County,Aberdeen,Mississippi
+Montgomery County,Winona,Mississippi
+Neshoba County,Philadelphia,Mississippi
+Newton County,Decatur,Mississippi
+Noxubee County,Macon,Mississippi
+Oktibbeha County,Starkville,Mississippi
+Panola County,Batesville,Mississippi
+Pearl River County,Poplarville,Mississippi
+Perry County,New Augusta,Mississippi
+Pike County,Magnolia,Mississippi
+Pontotoc County,Pontotoc,Mississippi
+Prentiss County,Booneville,Mississippi
+Quitman County,Marks,Mississippi
+Rankin County,Brandon,Mississippi
+Scott County,Forest,Mississippi
+Sharkey County,Rolling Fork,Mississippi
+Simpson County,Mendenhall,Mississippi
+Smith County,Raleigh,Mississippi
+Stone County,Wiggins,Mississippi
+Sunflower County,Indianola,Mississippi
+Tallahatchie County,Charleston,Mississippi
+Tate County,Senatobia,Mississippi
+Tippah County,Ripley,Mississippi
+Tishomingo County,Iuka,Mississippi
+Tunica County,Tunica,Mississippi
+Union County,New Albany,Mississippi
+Walthall County,Tylertown,Mississippi
+Warren County,Vicksburg,Mississippi
+Washington County,Greenville,Mississippi
+Wayne County,Waynesboro,Mississippi
+Webster County,Walthall,Mississippi
+Wilkinson County,Woodville,Mississippi
+Winston County,Louisville,Mississippi
+Yalobusha County,Coffeeville,Mississippi
+Yazoo County,Yazoo City,Mississippi
+Adair County,Kirksville,Missouri
+Andrew County,Savannah,Missouri
+Atchison County,Rock Port,Missouri
+Audrain County,Mexico,Missouri
+Barry County,Cassville,Missouri
+Barton County,Lamar,Missouri
+Bates County,Butler,Missouri
+Benton County,Warsaw,Missouri
+Bollinger County,Marble Hill,Missouri
+Boone County,Columbia,Missouri
+Buchanan County,Saint Joseph,Missouri
+Butler County,Poplar Bluff,Missouri
+Caldwell County,Kingston,Missouri
+Callaway County,Fulton,Missouri
+Camden County,Camdenton,Missouri
+Cape Girardeau County,Jackson,Missouri
+Carroll County,Carrollton,Missouri
+Carter County,Van Buren,Missouri
+Cass County,Harrisonville,Missouri
+Cedar County,Stockton,Missouri
+Chariton County,Keytesville,Missouri
+Christian County,Ozark,Missouri
+Clark County,Kahoka,Missouri
+Clay County,Liberty,Missouri
+Clinton County,Plattsburg,Missouri
+Cole County,Jefferson City,Missouri
+Cooper County,Boonville,Missouri
+Crawford County,Steelville,Missouri
+Dade County,Greenfield,Missouri
+Dallas County,Buffalo,Missouri
+Daviess County,Gallatin,Missouri
+DeKalb County,Maysville,Missouri
+Dent County,Salem,Missouri
+Douglas County,Ava,Missouri
+Dunklin County,Kennett,Missouri
+Franklin County,Union,Missouri
+Gasconade County,Hermann,Missouri
+Gentry County,Albany,Missouri
+Greene County,Springfield,Missouri
+Grundy County,Trenton,Missouri
+Harrison County,Bethany,Missouri
+Henry County,Clinton,Missouri
+Hickory County,Hermitage,Missouri
+Holt County,Oregon,Missouri
+Howard County,Fayette,Missouri
+Howell County,West Plains,Missouri
+Iron County,Ironton,Missouri
+Jackson County,Kansas City,Missouri
+Jasper County,Carthage,Missouri
+Jefferson County,Hillsboro,Missouri
+Johnson County,Warrensburg,Missouri
+Knox County,Edina,Missouri
+Laclede County,Lebanon,Missouri
+Lafayette County,Lexington,Missouri
+Lawrence County,Mount Vernon,Missouri
+Lewis County,Monticello,Missouri
+Lincoln County,Troy,Missouri
+Linn County,Linneus,Missouri
+Livingston County,Chillicothe,Missouri
+Macon County,Macon,Missouri
+Madison County,Fredericktown,Missouri
+Maries County,Vienna,Missouri
+Marion County,Palmyra,Missouri
+McDonald County,Pineville,Missouri
+Mercer County,Princeton,Missouri
+Miller County,Tuscumbia,Missouri
+Mississippi County,Charleston,Missouri
+Moniteau County,California,Missouri
+Monroe County,Paris,Missouri
+Montgomery County,Montgomery City,Missouri
+Morgan County,Versailles,Missouri
+New Madrid County,New Madrid,Missouri
+Newton County,Neosho,Missouri
+Nodaway County,Maryville,Missouri
+Oregon County,Alton,Missouri
+Osage County,Linn,Missouri
+Ozark County,Gainesville,Missouri
+Pemiscot County,Caruthersville,Missouri
+Perry County,Perryville,Missouri
+Pettis County,Sedalia,Missouri
+Phelps County,Rolla,Missouri
+Pike County,Bowling Green,Missouri
+Platte County,Platte City,Missouri
+Polk County,Bolivar,Missouri
+Pulaski County,Waynesville,Missouri
+Putnam County,Unionville,Missouri
+Ralls County,New London,Missouri
+Randolph County,Huntsville,Missouri
+Ray County,Richmond,Missouri
+Reynolds County,Centerville,Missouri
+Ripley County,Doniphan,Missouri
+Saint Charles County,Saint Charles,Missouri
+Saint Clair County,Osceola,Missouri
+Saint Francois County,Farmington,Missouri
+Saint Louis County,Clayton,Missouri
+Ste. Genevieve County,Ste. Genevieve,Missouri
+Saline County,Marshall,Missouri
+Schuyler County,Lancaster,Missouri
+Scotland County,Memphis,Missouri
+Scott County,Benton,Missouri
+Shannon County,Eminence,Missouri
+Shelby County,Shelbyville,Missouri
+Stoddard County,Bloomfield,Missouri
+Stone County,Galena,Missouri
+Sullivan County,Milan,Missouri
+Taney County,Forsyth,Missouri
+Texas County,Houston,Missouri
+Vernon County,Nevada,Missouri
+Warren County,Warrenton,Missouri
+Washington County,Potosi,Missouri
+Wayne County,Greenville,Missouri
+Webster County,Marshfield,Missouri
+Worth County,Grant City,Missouri
+Wright County,Hartville,Missouri
+Beaverhead County,Dillon,Montana
+Big Horn County,Hardin,Montana
+Blaine County,Chinook,Montana
+Broadwater County,Townsend,Montana
+Carbon County,Red Lodge,Montana
+Carter County,Ekalaka,Montana
+Cascade County,Great Falls,Montana
+Chouteau County,Fort Benton,Montana
+Custer County,Miles City,Montana
+Daniels County,Scobey,Montana
+Dawson County,Glendive,Montana
+Deer Lodge County,Anaconda,Montana
+Fallon County,Baker,Montana
+Fergus County,Lewistown,Montana
+Flathead County,Kalispell,Montana
+Gallatin County,Bozeman,Montana
+Garfield County,Jordan,Montana
+Glacier County,Cut Bank,Montana
+Golden Valley County,Ryegate,Montana
+Musselshell County,852,Montana
+Granite County,Philipsburg,Montana
+Hill County,Havre,Montana
+Jefferson County,Boulder,Montana
+Judith Basin County,Stanford,Montana
+Lake County,Polson,Montana
+Lewis and Clark County,Helena,Montana
+Liberty County,Chester,Montana
+Lincoln County,Libby,Montana
+McCone County,Circle,Montana
+Madison County,Virginia City,Montana
+Meagher County,White Sulphur Springs,Montana
+Mineral County,Superior,Montana
+Missoula County,Missoula,Montana
+Musselshell County,Roundup,Montana
+Park County,Livingston,Montana
+Petroleum County,Winnett,Montana
+Fergus County,485,Montana
+Phillips County,Malta,Montana
+Pondera County,Conrad,Montana
+Powder River County,Broadus,Montana
+Powell County,Deer Lodge,Montana
+Prairie County,Terry,Montana
+Ravalli County,Hamilton,Montana
+Richland County,Sidney,Montana
+Roosevelt County,Wolf Point,Montana
+Rosebud County,Forsyth,Montana
+Sanders County,Thompson Falls,Montana
+Sheridan County,Plentywood,Montana
+Silver Bow County,Butte,Montana
+Stillwater County,Columbus,Montana
+Sweet Grass County,Big Timber,Montana
+Teton County,Choteau,Montana
+Toole County,Shelby,Montana
+Treasure County,Hysham,Montana
+Rosebud County,692,Montana
+Valley County,Glasgow,Montana
+Wheatland County,Harlowton,Montana
+Wibaux County,Wibaux,Montana
+Yellowstone County,Billings,Montana
+Adams County,Hastings,Nebraska
+Antelope County,Neligh,Nebraska
+Arthur County,Arthur,Nebraska
+Banner County,Harrisburg,Nebraska
+Blaine County,Brewster,Nebraska
+Boone County,Albion,Nebraska
+Box Butte County,Alliance,Nebraska
+Boyd County,Butte,Nebraska
+Brown County,Ainsworth,Nebraska
+Buffalo County,Kearney,Nebraska
+Burt County,Tekamah,Nebraska
+Butler County,David City,Nebraska
+Cass County,Plattsmouth,Nebraska
+Cedar County,Hartington,Nebraska
+Chase County,Imperial,Nebraska
+Cherry County,Valentine,Nebraska
+Cheyenne County,Sidney,Nebraska
+Clay County,Clay Center,Nebraska
+Colfax County,Schuyler,Nebraska
+Cuming County,West Point,Nebraska
+Custer County,Broken Bow,Nebraska
+Dakota County,Dakota City,Nebraska
+Dawes County,Chadron,Nebraska
+Dawson County,Lexington,Nebraska
+Deuel County,Chappell,Nebraska
+Dixon County,Ponca,Nebraska
+Dodge County,Fremont,Nebraska
+Douglas County,Omaha,Nebraska
+Dundy County,Benkelman,Nebraska
+Fillmore County,Geneva,Nebraska
+Franklin County,Franklin,Nebraska
+Frontier County,Stockville,Nebraska
+Furnas County,Beaver City,Nebraska
+Gage County,Beatrice,Nebraska
+Garden County,Oshkosh,Nebraska
+Garfield County,Burwell,Nebraska
+Gosper County,Elwood,Nebraska
+Grant County,Hyannis,Nebraska
+Greeley County,Greeley,Nebraska
+Hall County,Grand Island,Nebraska
+Hamilton County,Aurora,Nebraska
+Harlan County,Alma,Nebraska
+Hayes County,Hayes Center,Nebraska
+Hitchcock County,Trenton,Nebraska
+Hooker County,Mullen,Nebraska
+Howard County,Saint Paul,Nebraska
+Jefferson County,Fairbury,Nebraska
+Johnson County,Tecumseh,Nebraska
+Kearney County,Minden,Nebraska
+Keith County,Ogallala,Nebraska
+Keya Paha County,Springview,Nebraska
+Kimball County,Kimball,Nebraska
+Knox County,Center,Nebraska
+Lancaster County,Lincoln,Nebraska
+Lincoln County,North Platte,Nebraska
+Logan County,Stapleton,Nebraska
+Loup County,Taylor,Nebraska
+Madison County,Madison,Nebraska
+McPherson County,Tryon,Nebraska
+Merrick County,Central City,Nebraska
+Morrill County,Bridgeport,Nebraska
+Nance County,Fullerton,Nebraska
+Nemaha County,Auburn,Nebraska
+Nuckolls County,Nelson,Nebraska
+Otoe County,Nebraska City,Nebraska
+Pawnee County,Pawnee City,Nebraska
+Perkins County,Grant,Nebraska
+Phelps County,Holdrege,Nebraska
+Pierce County,Pierce,Nebraska
+Platte County,Columbus,Nebraska
+Polk County,Osceola,Nebraska
+Red Willow County,McCook,Nebraska
+Richardson County,Falls City,Nebraska
+Rock County,Bassett,Nebraska
+Saline County,Wilber,Nebraska
+Sarpy County,Papillion,Nebraska
+Saunders County,Wahoo,Nebraska
+Scotts Bluff County,Gering,Nebraska
+Seward County,Seward,Nebraska
+Sheridan County,Rushville,Nebraska
+Sherman County,Loup City,Nebraska
+Sioux County,Harrison,Nebraska
+Stanton County,Stanton,Nebraska
+Thayer County,Hebron,Nebraska
+Thomas County,Thedford,Nebraska
+Thurston County,Pender,Nebraska
+Valley County,Ord,Nebraska
+Washington County,Blair,Nebraska
+Wayne County,Wayne,Nebraska
+Webster County,Red Cloud,Nebraska
+Wheeler County,Bartlett,Nebraska
+York County,York,Nebraska
+Churchill County,Fallon,Nevada
+Clark County,Las Vegas,Nevada
+Douglas County,Minden,Nevada
+Elko County,Elko,Nevada
+Esmeralda County,Goldfield,Nevada
+Eureka County,Eureka,Nevada
+Humboldt County,Winnemucca,Nevada
+Lander County,Battle Mountain,Nevada
+Lincoln County,Pioche,Nevada
+Lyon County,Yerington,Nevada
+Mineral County,Hawthorne,Nevada
+Nye County,Tonopah,Nevada
+Pershing County,Lovelock,Nevada
+Storey County,Virginia City,Nevada
+Washoe County,Reno,Nevada
+White Pine County,Ely,Nevada
+Adams County,West Union,Ohio
+Allen County,Lima,Ohio
+Ashland County,Ashland,Ohio
+Ashtabula County,Jefferson,Ohio
+Athens County,Athens,Ohio
+Auglaize County,Wapakoneta,Ohio
+Belmont County,St. Clairsville,Ohio
+Brown County,Georgetown,Ohio
+Butler County,Hamilton,Ohio
+Carroll County,Carrollton,Ohio
+Champaign County,Urbana,Ohio
+Clark County,Springfield,Ohio
+Clermont County,Batavia,Ohio
+Clinton County,Wilmington,Ohio
+Columbiana County,Lisbon,Ohio
+Coshocton County,Coshocton,Ohio
+Crawford County,Bucyrus,Ohio
+Cuyahoga County,Cleveland,Ohio
+Darke County,Greenville,Ohio
+Defiance County,Defiance,Ohio
+Delaware County,Delaware,Ohio
+Erie County,Sandusky,Ohio
+Fairfield County,Lancaster,Ohio
+Fayette County,Washington Court House,Ohio
+Franklin County,Columbus,Ohio
+Fulton County,Wauseon,Ohio
+Gallia County,Gallipolis,Ohio
+Geauga County,Chardon,Ohio
+Greene County,Xenia,Ohio
+Guernsey County,Cambridge,Ohio
+Hamilton County,Cincinnati,Ohio
+Hancock County,Findlay,Ohio
+Hardin County,Kenton,Ohio
+Harrison County,Cadiz,Ohio
+Henry County,Napoleon,Ohio
+Highland County,Hillsboro,Ohio
+Hocking County,Logan,Ohio
+Holmes County,Millersburg,Ohio
+Huron County,Norwalk,Ohio
+Jackson County,Jackson,Ohio
+Jefferson County,Steubenville,Ohio
+Knox County,Mount Vernon,Ohio
+Lake County,Painesville,Ohio
+Lawrence County,Ironton,Ohio
+Licking County,Newark,Ohio
+Logan County,Bellefontaine,Ohio
+Lorain County,Elyria,Ohio
+Lucas County,Toledo,Ohio
+Madison County,London,Ohio
+Mahoning County,Youngstown,Ohio
+Marion County,Marion,Ohio
+Medina County,Medina,Ohio
+Meigs County,Pomeroy,Ohio
+Mercer County,Celina,Ohio
+Miami County,Troy,Ohio
+Monroe County,Woodsfield,Ohio
+Montgomery County,Dayton,Ohio
+Morgan County,McConnelsville,Ohio
+Morrow County,Mount Gilead,Ohio
+Muskingum County,Zanesville,Ohio
+Noble County,Caldwell,Ohio
+Ottawa County,Port Clinton,Ohio
+Paulding County,Paulding,Ohio
+Perry County,New Lexington,Ohio
+Pickaway County,Circleville,Ohio
+Pike County,Waverly,Ohio
+Portage County,Ravenna,Ohio
+Preble County,Eaton,Ohio
+Putnam County,Ottawa,Ohio
+Richland County,Mansfield,Ohio
+Ross County,Chillicothe,Ohio
+Sandusky County,Fremont,Ohio
+Scioto County,Portsmouth,Ohio
+Seneca County,Tiffin,Ohio
+Shelby County,Sidney,Ohio
+Stark County,Canton,Ohio
+Summit County,Akron,Ohio
+Trumbull County,Warren,Ohio
+Tuscarawas County,New Philadelphia,Ohio
+Union County,Marysville,Ohio
+Van Wert County,Van Wert,Ohio
+Vinton County,McArthur,Ohio
+Warren County,Lebanon,Ohio
+Washington County,Marietta,Ohio
+Wayne County,Wooster,Ohio
+Williams County,Bryan,Ohio
+Wood County,Bowling Green,Ohio
+Wyandot County,Upper Sandusky,Ohio
+Adair County,Stilwell,Oklahoma
+Alfalfa County,Cherokee,Oklahoma
+Atoka County,Atoka,Oklahoma
+Beaver County,Beaver,Oklahoma
+Beckham County,Sayre,Oklahoma
+Blaine County,Watonga,Oklahoma
+Bryan County,Durant,Oklahoma
+Caddo County,Anadarko,Oklahoma
+Canadian County,El Reno,Oklahoma
+Carter County,Ardmore,Oklahoma
+Cherokee County,Tahlequah,Oklahoma
+Choctaw County,Hugo,Oklahoma
+Cimarron County,Boise City,Oklahoma
+Cleveland County,Norman,Oklahoma
+Coal County,Coalgate,Oklahoma
+Comanche County,Lawton,Oklahoma
+Cotton County,Walters,Oklahoma
+Craig County,Vinita,Oklahoma
+Creek County,Sapulpa,Oklahoma
+Custer County,Arapaho,Oklahoma
+Delaware County,Jay,Oklahoma
+Dewey County,Taloga,Oklahoma
+Ellis County,Arnett,Oklahoma
+Garfield County,Enid,Oklahoma
+Garvin County,Pauls Valley,Oklahoma
+Grady County,Chickasha,Oklahoma
+Grant County,Medford,Oklahoma
+Greer County,Mangum,Oklahoma
+Harmon County,Hollis,Oklahoma
+Harper County,Buffalo,Oklahoma
+Woodward County,3.55,County
+Haskell County,Stigler,Oklahoma
+Hughes County,Holdenville,Oklahoma
+Jackson County,Altus,Oklahoma
+Jefferson County,Waurika,Oklahoma
+Johnston County,Tishomingo,Oklahoma
+Kay County,Newkirk,Oklahoma
+Kingfisher County,Kingfisher,Oklahoma
+Kiowa County,Hobart,Oklahoma
+Latimer County,Wilburton,Oklahoma
+Le Flore County,Poteau,Oklahoma
+Lincoln County,Chandler,Oklahoma
+Logan County,Guthrie,Oklahoma
+Love County,Marietta,Oklahoma
+Major County,Fairview,Oklahoma
+Marshall County,Madill,Oklahoma
+Mayes County,Pryor,Oklahoma
+McClain County,Purcell,Oklahoma
+McCurtain County,Idabel,Oklahoma
+McIntosh County,Eufaula,Oklahoma
+Murray County,Sulphur,Oklahoma
+Muskogee County,Muskogee,Oklahoma
+Noble County,Perry,Oklahoma
+Nowata County,Nowata,Oklahoma
+Okfuskee County,Okemah,Oklahoma
+Oklahoma County,Oklahoma City,Oklahoma
+Okmulgee County,Okmulgee,Oklahoma
+Osage County,Pawhuska,Oklahoma
+Ottawa County,Miami,Oklahoma
+Pawnee County,Pawnee,Oklahoma
+Payne County,Stillwater,Oklahoma
+Pittsburg County,McAlester,Oklahoma
+Pontotoc County,Ada,Oklahoma
+Pottawatomie County,Shawnee,Oklahoma
+Pushmataha County,Antlers,Oklahoma
+Roger Mills County,Cheyenne,Oklahoma
+Rogers County,Claremore,Oklahoma
+Seminole County,Wewoka,Oklahoma
+Sequoyah County,Sallisaw,Oklahoma
+Stephens County,Duncan,Oklahoma
+Texas County,Guymon,Oklahoma
+Tillman County,Frederick,Oklahoma
+Tulsa County,Tulsa,Oklahoma
+Wagoner County,Wagoner,Oklahoma
+Washington County,Bartlesville,Oklahoma
+Washita County,Cordell,Oklahoma
+Woods County,Alva,Oklahoma
+Woodward County,Woodward,Oklahoma
+Baker County,Baker City,Oregon
+Benton County,Corvallis,Oregon
+Clackamas County,Oregon City,Oregon
+Clatsop County,Astoria,Oregon
+Columbia County,Saint Helens,Oregon
+Coos County,Coquille,Oregon
+Crook County,Prineville,Oregon
+Curry County,Gold Beach,Oregon
+Deschutes County,Bend,Oregon
+Douglas County,Roseburg,Oregon
+Gilliam County,Condon,Oregon
+Grant County,Canyon City,Oregon
+Harney County,Burns,Oregon
+Hood River County,Hood River,Oregon
+Jackson County,Medford,Oregon
+Jefferson County,Madras,Oregon
+Josephine County,Grants Pass,Oregon
+Klamath County,Klamath Falls,Oregon
+Lake County,Lakeview,Oregon
+Lane County,Eugene,Oregon
+Lincoln County,Newport,Oregon
+Linn County,Albany,Oregon
+Malheur County,Vale,Oregon
+Marion County,Salem,Oregon
+Morrow County,Heppner,Oregon
+Multnomah County,Portland,Oregon
+Polk County,Dallas,Oregon
+Sherman County,Moro,Oregon
+Tillamook County,Tillamook,Oregon
+Umatilla County,Pendleton,Oregon
+Union County,La Grande,Oregon
+Wallowa County,Enterprise,Oregon
+Wasco County,The Dalles,Oregon
+Washington County,Hillsboro,Oregon
+Wheeler County,Fossil,Oregon
+Yamhill County,McMinnville,Oregon
+Adams County,Gettysburg,Pennsylvania
+Allegheny County,Pittsburgh,Pennsylvania
+Armstrong County,Kittanning,Pennsylvania
+Beaver County,Beaver,Pennsylvania
+Bedford County,Bedford,Pennsylvania
+Berks County,Reading,Pennsylvania
+Blair County,Hollidaysburg,Pennsylvania
+Bradford County,Towanda,Pennsylvania
+Bucks County,Doylestown,Pennsylvania
+Butler County,Butler,Pennsylvania
+Cambria County,Ebensburg,Pennsylvania
+Cameron County,Emporium,Pennsylvania
+Carbon County,Jim Thorpe,Pennsylvania
+Centre County,Bellefonte,Pennsylvania
+Chester County,West Chester,Pennsylvania
+Clarion County,Clarion,Pennsylvania
+Clearfield County,Clearfield,Pennsylvania
+Clinton County,Lock Haven,Pennsylvania
+Columbia County,Bloomsburg,Pennsylvania
+Crawford County,Meadville,Pennsylvania
+Cumberland County,Carlisle,Pennsylvania
+Dauphin County,Harrisburg,Pennsylvania
+Delaware County,Media,Pennsylvania
+Elk County,Ridgway,Pennsylvania
+Erie County,Erie,Pennsylvania
+Fayette County,Uniontown,Pennsylvania
+Forest County,Tionesta,Pennsylvania
+Franklin County,Chambersburg,Pennsylvania
+Fulton County,McConnellsburg,Pennsylvania
+Greene County,Waynesburg,Pennsylvania
+Huntingdon County,Huntingdon,Pennsylvania
+Indiana County,Indiana,Pennsylvania
+Jefferson County,Brookville,Pennsylvania
+Juniata County,Mifflintown,Pennsylvania
+Lackawanna County,Scranton,Pennsylvania
+Lancaster County,Lancaster,Pennsylvania
+Lawrence County,New Castle,Pennsylvania
+Lebanon County,Lebanon,Pennsylvania
+Lehigh County,Allentown,Pennsylvania
+Luzerne County,Wilkes-Barre,Pennsylvania
+Lycoming County,Williamsport,Pennsylvania
+McKean County,Smethport,Pennsylvania
+Mercer County,Mercer,Pennsylvania
+Mifflin County,Lewistown,Pennsylvania
+Monroe County,Stroudsburg,Pennsylvania
+Montgomery County,Norristown,Pennsylvania
+Montour County,Danville,Pennsylvania
+Northampton County,Easton,Pennsylvania
+Northumberland County,Sunbury,Pennsylvania
+Perry County,New Bloomfield,Pennsylvania
+Philadelphia County,Philadelphia,Pennsylvania
+Pike County,Milford,Pennsylvania
+Potter County,Coudersport,Pennsylvania
+Schuylkill County,Pottsville,Pennsylvania
+Snyder County,Middleburg,Pennsylvania
+Somerset County,Somerset,Pennsylvania
+Sullivan County,Laporte,Pennsylvania
+Susquehanna County,Montrose,Pennsylvania
+Tioga County,Wellsboro,Pennsylvania
+Union County,Lewisburg,Pennsylvania
+Venango County,Franklin,Pennsylvania
+Warren County,Warren,Pennsylvania
+Washington County,Washington,Pennsylvania
+Wayne County,Honesdale,Pennsylvania
+Westmoreland County,Greensburg,Pennsylvania
+Wyoming County,Tunkhannock,Pennsylvania
+York County,York,Pennsylvania
+Anderson County,Clinton,Tennessee
+Bedford County,Shelbyville,Tennessee
+Benton County,Camden,Tennessee
+Bledsoe County,Pikeville,Tennessee
+Blount County,Maryville,Tennessee
+Bradley County,Cleveland,Tennessee
+Campbell County,Jacksboro,Tennessee
+Cannon County,Woodbury,Tennessee
+Carroll County,Huntingdon,Tennessee
+Carter County,Elizabethton,Tennessee
+Cheatham County,Ashland City,Tennessee
+Chester County,Henderson,Tennessee
+Claiborne County,Tazewell,Tennessee
+Clay County,Celina,Tennessee
+Cocke County,Newport,Tennessee
+Coffee County,Manchester,Tennessee
+Crockett County,Alamo,Tennessee
+Cumberland County,Crossville,Tennessee
+Davidson County,Nashville,Tennessee
+Decatur County,Decaturville,Tennessee
+DeKalb County,Smithville,Tennessee
+Dickson County,Charlotte,Tennessee
+Dyer County,Dyersburg,Tennessee
+Fayette County,Somerville,Tennessee
+Fentress County,Jamestown,Tennessee
+Franklin County,Winchester,Tennessee
+Gibson County,Trenton,Tennessee
+Giles County,Pulaski,Tennessee
+Grainger County,Rutledge,Tennessee
+Greene County,Greeneville,Tennessee
+Grundy County,Altamont,Tennessee
+Hamblen County,Morristown,Tennessee
+Hamilton County,Chattanooga,Tennessee
+Hancock County,Sneedville,Tennessee
+Hardeman County,Bolivar,Tennessee
+Hardin County,Savannah,Tennessee
+Hawkins County,Rogersville,Tennessee
+Haywood County,Brownsville,Tennessee
+Henderson County,Lexington,Tennessee
+Henry County,Paris,Tennessee
+Hickman County,Centerville,Tennessee
+Houston County,Erin,Tennessee
+Humphreys County,Waverly,Tennessee
+Jackson County,Gainesboro,Tennessee
+Jefferson County,Dandridge,Tennessee
+Johnson County,Mountain City,Tennessee
+Knox County,Knoxville,Tennessee
+Lake County,Tiptonville,Tennessee
+Lauderdale County,Ripley,Tennessee
+Lawrence County,Lawrenceburg,Tennessee
+Lewis County,Hohenwald,Tennessee
+Lincoln County,Fayetteville,Tennessee
+Loudon County,Loudon,Tennessee
+Macon County,Lafayette,Tennessee
+Madison County,Jackson,Tennessee
+Marion County,Jasper,Tennessee
+Marshall County,Lewisburg,Tennessee
+Maury County,Columbia,Tennessee
+McMinn County,Athens,Tennessee
+McNairy County,Selmer,Tennessee
+Meigs County,Decatur,Tennessee
+Monroe County,Madisonville,Tennessee
+Montgomery County,Clarksville,Tennessee
+Moore County,Lynchburg,Tennessee
+Morgan County,Wartburg,Tennessee
+Obion County,Union City,Tennessee
+Overton County,Livingston,Tennessee
+Perry County,Linden,Tennessee
+Pickett County,Byrdstown,Tennessee
+Polk County,Benton,Tennessee
+Putnam County,Cookeville,Tennessee
+Rhea County,Dayton,Tennessee
+Roane County,Kingston,Tennessee
+Robertson County,Springfield,Tennessee
+Rutherford County,Murfreesboro,Tennessee
+Scott County,Huntsville,Tennessee
+Sequatchie County,Dunlap,Tennessee
+Sevier County,Sevierville,Tennessee
+Shelby County,Memphis,Tennessee
+Smith County,Carthage,Tennessee
+Stewart County,Dover,Tennessee
+Sullivan County,Blountville,Tennessee
+Sumner County,Gallatin,Tennessee
+Tipton County,Covington,Tennessee
+Trousdale County,Hartsville,Tennessee
+Unicoi County,Erwin,Tennessee
+Union County,Maynardville,Tennessee
+Van Buren County,Spencer,Tennessee
+Warren County,McMinnville,Tennessee
+Washington County,Jonesborough,Tennessee
+Wayne County,Waynesboro,Tennessee
+Weakley County,Dresden,Tennessee
+White County,Sparta,Tennessee
+Williamson County,Franklin,Tennessee
+Wilson County,Lebanon,Tennessee
+Anderson County,Palestine,Texas
+Andrews County,Andrews,Texas
+Angelina County,Lufkin,Texas
+Aransas County,Rockport,Texas
+Archer County,Archer City,Texas
+Armstrong County,Claude,Texas
+Atascosa County,Jourdanton,Texas
+Austin County,Bellville,Texas
+Bailey County,Muleshoe,Texas
+Bandera County,Bandera,Texas
+Bastrop County,Bastrop,Texas
+Baylor County,Seymour,Texas
+Bee County,Beeville,Texas
+Bell County,Belton,Texas
+Bexar County,San Antonio,Texas
+Blanco County,Johnson City,Texas
+Borden County,Gail,Texas
+Bexar County,633,Texas
+Bosque County,Meridian,Texas
+Bowie County,Boston,Texas
+Brazoria County,Angleton,Texas
+Brazos County,Bryan,Texas
+Brewster County,Alpine,Texas
+Briscoe County,Silverton,Texas
+Brooks County,Falfurrias,Texas
+Brown County,Brownwood,Texas
+Burleson County,Caldwell,Texas
+Burnet County,Burnet,Texas
+Caldwell County,Lockhart,Texas
+Calhoun County,Port Lavaca,Texas
+Callahan County,Baird,Texas
+Cameron County,Brownsville,Texas
+Camp County,Pittsburg,Texas
+Carson County,Panhandle,Texas
+Cass County,Linden,Texas
+Castro County,Dimmitt,Texas
+Chambers County,Anahuac,Texas
+Cherokee County,Rusk,Texas
+Childress County,Childress,Texas
+Clay County,Henrietta,Texas
+Cochran County,Morton,Texas
+Coke County,Robert Lee,Texas
+Coleman County,Coleman,Texas
+Collin County,McKinney,Texas
+Collingsworth County,Wellington,Texas
+Colorado County,Columbus,Texas
+Comal County,New Braunfels,Texas
+Comanche County,Comanche,Texas
+Concho County,Paint Rock,Texas
+Cooke County,Gainesville,Texas
+Coryell County,Gatesville,Texas
+Cottle County,Paducah,Texas
+Crane County,Crane,Texas
+Crockett County,Ozona,Texas
+Crosby County,Crosbyton,Texas
+Culberson County,Van Horn,Texas
+Dallam County,Dalhart,Texas
+Dallas County,Dallas,Texas
+Dawson County,Lamesa,Texas
+Deaf Smith County,Hereford,Texas
+Delta County,Cooper,Texas
+Denton County,Denton,Texas
+DeWitt County,Cuero,Texas
+Dickens County,Dickens,Texas
+Dimmit County,Carrizo Springs,Texas
+Donley County,Clarendon,Texas
+Duval County,San Diego,Texas
+Eastland County,Eastland,Texas
+Ector County,Odessa,Texas
+Edwards County,Rocksprings,Texas
+Ellis County,Waxahachie,Texas
+El Paso County,El Paso,Texas
+Erath County,Stephenville,Texas
+Falls County,Marlin,Texas
+Fannin County,Bonham,Texas
+Fayette County,La Grange,Texas
+Fisher County,Roby,Texas
+Floyd County,Floydada,Texas
+Foard County,Crowell,Texas
+Fort Bend County,Richmond,Texas
+Franklin County,Mount Vernon,Texas
+Freestone County,Fairfield,Texas
+Frio County,Pearsall,Texas
+Gaines County,Seminole,Texas
+Galveston County,Galveston,Texas
+Garza County,Post,Texas
+Gillespie County,Fredericksburg,Texas
+Glasscock County,Garden City,Texas
+Goliad County,Goliad,Texas
+Gonzales County,Gonzales,Texas
+Gray County,Pampa,Texas
+Grayson County,Sherman,Texas
+Gregg County,Longview,Texas
+Grimes County,Anderson,Texas
+Guadalupe County,Seguin,Texas
+Hale County,Plainview,Texas
+Hall County,Memphis,Texas
+Hamilton County,Hamilton,Texas
+Hansford County,Spearman,Texas
+Hardeman County,Quanah,Texas
+Hardin County,Kountze,Texas
+Harris County,Houston,Texas
+Harrison County,Marshall,Texas
+Hartley County,Channing,Texas
+Haskell County,Haskell,Texas
+Hays County,San Marcos,Texas
+Hemphill County,Canadian,Texas
+Henderson County,Athens,Texas
+Hidalgo County,Edinburg,Texas
+Hill County,Hillsboro,Texas
+Hockley County,Levelland,Texas
+Hood County,Granbury,Texas
+Hopkins County,Sulphur Springs,Texas
+Houston County,Crockett,Texas
+Howard County,Big Spring,Texas
+Hudspeth County,Sierra Blanca,Texas
+Hunt County,Greenville,Texas
+Hutchinson County,Stinnett,Texas
+Irion County,Mertzon,Texas
+Jack County,Jacksboro,Texas
+Jackson County,Edna,Texas
+Jasper County,Jasper,Texas
+Jeff Davis County,Fort Davis,Texas
+Jefferson County,Beaumont,Texas
+Jim Hogg County,Hebbronville,Texas
+Jim Wells County,Alice,Texas
+Johnson County,Cleburne,Texas
+Jones County,Anson,Texas
+Karnes County,Karnes City,Texas
+Kaufman County,Kaufman,Texas
+Kendall County,Boerne,Texas
+Kenedy County,Sarita,Texas
+Kent County,Jayton,Texas
+Bexar County,769,Texas
+Kerr County,Kerrville,Texas
+Kimble County,Junction,Texas
+King County,Guthrie,Texas
+Bexar County,289,Texas
+Kinney County,Brackettville,Texas
+Kleberg County,Kingsville,Texas
+Knox County,Benjamin,Texas
+Lamar County,Paris,Texas
+Lamb County,Littlefield,Texas
+Lampasas County,Lampasas,Texas
+La Salle County,Cotulla,Texas
+Lavaca County,Hallettsville,Texas
+Lee County,Giddings,Texas
+Leon County,Centerville,Texas
+Liberty County,Liberty,Texas
+Limestone County,Groesbeck,Texas
+Lipscomb County,Lipscomb,Texas
+Live Oak County,George West,Texas
+Llano County,Llano,Texas
+Loving County,Mentone,Texas
+Lubbock County,Lubbock,Texas
+Lynn County,Tahoka,Texas
+McCulloch County,Brady,Texas
+McLennan County,Waco,Texas
+McMullen County,Tilden,Texas
+Atascosa County,804,Texas
+Madison County,Madisonville,Texas
+Marion County,Jefferson,Texas
+Martin County,Stanton,Texas
+Mason County,Mason,Texas
+Matagorda County,Bay City,Texas
+Maverick County,Eagle Pass,Texas
+Medina County,Hondo,Texas
+Menard County,Menard,Texas
+Midland County,Midland,Texas
+Milam County,Cameron,Texas
+Mills County,Goldthwaite,Texas
+Mitchell County,Colorado City,Texas
+Montague County,Montague,Texas
+Montgomery County,Conroe,Texas
+Moore County,Dumas,Texas
+Morris County,Daingerfield,Texas
+Motley County,Matador,Texas
+Nacogdoches County,Nacogdoches,Texas
+Navarro County,Corsicana,Texas
+Newton County,Newton,Texas
+Nolan County,Sweetwater,Texas
+Nueces County,Corpus Christi,Texas
+Ochiltree County,Perryton,Texas
+Oldham County,Vega,Texas
+Orange County,Orange,Texas
+Palo Pinto County,Palo Pinto,Texas
+Panola County,Carthage,Texas
+Parker County,Weatherford,Texas
+Parmer County,Farwell,Texas
+Pecos County,Fort Stockton,Texas
+Polk County,Livingston,Texas
+Potter County,Amarillo,Texas
+Presidio County,Marfa,Texas
+Rains County,Emory,Texas
+Randall County,Canyon,Texas
+Reagan County,Big Lake,Texas
+Real County,Leakey,Texas
+Red River County,Clarksville,Texas
+Reeves County,Pecos,Texas
+Refugio County,Refugio,Texas
+Roberts County,Miami,Texas
+Bexar County,916,Texas
+Robertson County,Franklin,Texas
+Rockwall County,Rockwall,Texas
+Runnels County,Ballinger,Texas
+Rusk County,Henderson,Texas
+Sabine County,Hemphill,Texas
+San Augustine County,San Augustine,Texas
+San Jacinto County,Coldspring,Texas
+San Patricio County,Sinton,Texas
+San Saba County,San Saba,Texas
+Schleicher County,Eldorado,Texas
+Scurry County,Snyder,Texas
+Shackelford County,Albany,Texas
+Shelby County,Center,Texas
+Sherman County,Stratford,Texas
+Smith County,Tyler,Texas
+Somervell County,Glen Rose,Texas
+Starr County,Rio Grande City,Texas
+Stephens County,Breckenridge,Texas
+Sterling County,Sterling City,Texas
+Stonewall County,Aspermont,Texas
+Sutton County,Sonora,Texas
+Swisher County,Tulia,Texas
+Tarrant County,Fort Worth,Texas
+Taylor County,Abilene,Texas
+Terrell County,Sanderson,Texas
+Pecos County,812,Texas
+Terry County,Brownfield,Texas
+Throckmorton County,Throckmorton,Texas
+Titus County,Mount Pleasant,Texas
+Tom Green County,San Angelo,Texas
+Travis County,Austin,Texas
+Trinity County,Groveton,Texas
+Tyler County,Woodville,Texas
+Upshur County,Gilmer,Texas
+Upton County,Rankin,Texas
+Uvalde County,Uvalde,Texas
+Val Verde County,Del Rio,Texas
+Van Zandt County,Canton,Texas
+Victoria County,Victoria,Texas
+Walker County,Huntsville,Texas
+Waller County,Hempstead,Texas
+Ward County,Monahans,Texas
+Washington County,Brenham,Texas
+Webb County,Laredo,Texas
+Wharton County,Wharton,Texas
+Wheeler County,Wheeler,Texas
+Wichita County,Wichita Falls,Texas
+Wilbarger County,Vernon,Texas
+Willacy County,Raymondville,Texas
+Williamson County,Georgetown,Texas
+Wilson County,Floresville,Texas
+Winkler County,Kermit,Texas
+Wise County,Decatur,Texas
+Wood County,Quitman,Texas
+Yoakum County,Plains,Texas
+Young County,Graham,Texas
+Zapata County,Zapata,Texas
+Zavala County,Crystal City,Texas
+Beaver County,Beaver,Utah
+Box Elder County,Brigham City,Utah
+Cache County,Logan,Utah
+Carbon County,Price,Utah
+Daggett County,Manila,Utah
+Davis County,Farmington,Utah
+Duchesne County,Duchesne,Utah
+Emery County,Castle Dale,Utah
+Garfield County,Panguitch,Utah
+Grand County,Moab,Utah
+Iron County,Parowan,Utah
+Juab County,Nephi,Utah
+Kane County,Kanab,Utah
+Millard County,Fillmore,Utah
+Morgan County,Morgan,Utah
+Piute County,Junction,Utah
+Rich County,Randolph,Utah
+Salt Lake County,Salt Lake City,Utah
+San Juan County,Monticello,Utah
+Sanpete County,Manti,Utah
+Sevier County,Richfield,Utah
+Summit County,Coalville,Utah
+Tooele County,Tooele,Utah
+Uintah County,Vernal,Utah
+Utah County,Provo,Utah
+Wasatch County,Heber City,Utah
+Washington County,St. George,Utah
+Wayne County,Loa,Utah
+Weber County,Ogden,Utah
+Utah County,1852,Utah
+Box Elder County,1852,Utah
+Humboldt County,1861,Nevada
+Box Elder County,1869,Utah
+Shambip County,1862,Utah_Territory
+Addison County,Middlebury,Vermont
+Bennington County,Bennington,Vermont
+Caledonia County,St. Johnsbury,Vermont
+Chittenden County,Burlington,Vermont
+Essex County,Guildhall,Vermont
+Grand Isle County,North Hero,Vermont
+Orange County,Chelsea,Vermont
+Washington County,Montpelier,Vermont
+Windham County,Newfane,Vermont
+Windsor County,Woodstock,Vermont
+Accomack County,Accomac,Virginia
+Albemarle County,Charlottesville,Virginia
+Alleghany County,Covington,Virginia
+Amelia County,Amelia,Virginia
+Amherst County,Amherst,Virginia
+Appomattox County,Appomattox,Virginia
+Arlington County,Arlington,Virginia
+Augusta County,Staunton,Virginia
+Bath County,Warm Springs,Virginia
+Bedford County,Bedford,Virginia
+Bland County,Bland,Virginia
+Botetourt County,Fincastle,Virginia
+Brunswick County,Lawrenceville,Virginia
+Buchanan County,Grundy,Virginia
+Buckingham County,Buckingham,Virginia
+Campbell County,Rustburg,Virginia
+Caroline County,Bowling Green,Virginia
+Carroll County,Hillsville,Virginia
+Charles City County,Charles City,Virginia
+Charlotte County,Charlotte Court House,Virginia
+Chesterfield County,Chesterfield,Virginia
+Clarke County,Berryville,Virginia
+Craig County,New Castle,Virginia
+Culpeper County,Culpeper,Virginia
+Cumberland County,Cumberland,Virginia
+Dickenson County,Clintwood,Virginia
+Dinwiddie County,Dinwiddie,Virginia
+Essex County,Tappahannock,Virginia
+Fairfax County,Fairfax,Virginia
+Fauquier County,Warrenton,Virginia
+Floyd County,Floyd,Virginia
+Fluvanna County,Palmyra,Virginia
+Franklin County,Rocky Mount,Virginia
+Frederick County,Winchester,Virginia
+Giles County,Pearisburg,Virginia
+Gloucester County,Gloucester,Virginia
+Goochland County,Goochland,Virginia
+Grayson County,Independence,Virginia
+Greene County,Stanardsville,Virginia
+Greensville County,Emporia,Virginia
+Halifax County,Halifax,Virginia
+Hanover County,Hanover,Virginia
+Henrico County,Henrico,Virginia
+Henry County,Martinsville,Virginia
+Highland County,Monterey,Virginia
+Isle of Wight County,Isle of Wight,Virginia
+James City County,Williamsburg,Virginia
+King and Queen County,King and Queen,Virginia
+King George County,King George,Virginia
+King William County,King William,Virginia
+Lancaster County,Lancaster,Virginia
+Lee County,Jonesville,Virginia
+Loudoun County,Leesburg,Virginia
+Louisa County,Louisa,Virginia
+Lunenburg County,Lunenburg,Virginia
+Madison County,Madison,Virginia
+Mathews County,Mathews,Virginia
+Mecklenburg County,Boydton,Virginia
+Middlesex County,Saluda,Virginia
+Montgomery County,Christiansburg,Virginia
+Nelson County,Lovingston,Virginia
+New Kent County,New Kent,Virginia
+Northampton County,Eastville,Virginia
+Northumberland County,Heathsville,Virginia
+Nottoway County,Nottoway,Virginia
+Orange County,Orange,Virginia
+Page County,Luray,Virginia
+Patrick County,Stuart,Virginia
+Pittsylvania County,Chatham,Virginia
+Powhatan County,Powhatan,Virginia
+Prince Edward County,Farmville,Virginia
+Prince George County,Prince George,Virginia
+Prince William County,Manassas,Virginia
+Pulaski County,Pulaski,Virginia
+Rappahannock County,Washington,Virginia
+Richmond County,Warsaw,Virginia
+Roanoke County,Salem,Virginia
+Rockbridge County,Lexington,Virginia
+Rockingham County,Harrisonburg,Virginia
+Russell County,Lebanon,Virginia
+Scott County,Gate City,Virginia
+Shenandoah County,Woodstock,Virginia
+Smyth County,Marion,Virginia
+Southampton County,Courtland,Virginia
+Spotsylvania County,Spotsylvania Courthouse,Virginia
+Stafford County,Stafford,Virginia
+Surry County,Surry,Virginia
+Sussex County,Sussex,Virginia
+Tazewell County,Tazewell,Virginia
+Warren County,Front Royal,Virginia
+Washington County,Abingdon,Virginia
+Westmoreland County,Montross,Virginia
+Wise County,Wise,Virginia
+Wythe County,Wytheville,Virginia
+York County,Yorktown,Virginia
+Adams County,Ritzville,Washington
+Asotin County,Asotin,Washington
+Benton County,Prosser,Washington
+Chelan County,Wenatchee,Washington
+Clallam County,Port Angeles,Washington
+Clark County,Vancouver,Washington
+Columbia County,Dayton,Washington
+Cowlitz County,Kelso,Washington
+Douglas County,Waterville,Washington
+Ferry County,Republic,Washington
+Franklin County,Pasco,Washington
+Garfield County,Pomeroy,Washington
+Grant County,Ephrata,Washington
+Grays Harbor County,Montesano,Washington
+Island County,Coupeville,Washington
+Jefferson County,Port Townsend,Washington
+King County,Seattle,Washington
+Kitsap County,Port Orchard,Washington
+Kittitas County,Ellensburg,Washington
+Klickitat County,Goldendale,Washington
+Lewis County,Chehalis,Washington
+Lincoln County,Davenport,Washington
+Mason County,Shelton,Washington
+Okanogan County,Okanogan,Washington
+Pacific County,South Bend,Washington
+Pend Oreille County,Newport,Washington
+Pierce County,Tacoma,Washington
+San Juan County,Friday Harbor,Washington
+Skagit County,Mount Vernon,Washington
+Skamania County,Stevenson,Washington
+Snohomish County,Everett,Washington
+Spokane County,Spokane,Washington
+Stevens County,Colville,Washington
+Thurston County,Olympia,Washington
+Wahkiakum County,Cathlamet,Washington
+Walla Walla County,Walla Walla,Washington
+Whatcom County,Bellingham,Washington
+Whitman County,Colfax,Washington
+Yakima County,Yakima,Washington
+Adams County,Friendship,Wisconsin
+Ashland County,Ashland,Wisconsin
+Barron County,Barron,Wisconsin
+Bayfield County,Washburn,Wisconsin
+Brown County,Green Bay,Wisconsin
+Buffalo County,Alma,Wisconsin
+Burnett County,Siren,Wisconsin
+Calumet County,Chilton,Wisconsin
+Chippewa County,Chippewa Falls,Wisconsin
+Clark County,Neillsville,Wisconsin
+Columbia County,Portage,Wisconsin
+Crawford County,Prairie du Chien,Wisconsin
+Dane County,Madison,Wisconsin
+Dodge County,Juneau,Wisconsin
+Door County,Sturgeon Bay,Wisconsin
+Douglas County,Superior,Wisconsin
+Dunn County,Menomonie,Wisconsin
+Eau Claire County,Eau Claire,Wisconsin
+Fond du Lac County,Fond du Lac,Wisconsin
+Forest County,Crandon,Wisconsin
+Grant County,Lancaster,Wisconsin
+Green County,Monroe,Wisconsin
+Green Lake County,Green Lake,Wisconsin
+Iowa County,Dodgeville,Wisconsin
+Iron County,Hurley,Wisconsin
+Jackson County,Black River Falls,Wisconsin
+Jefferson County,Jefferson,Wisconsin
+Juneau County,Mauston,Wisconsin
+Kenosha County,Kenosha,Wisconsin
+Kewaunee County,Kewaunee,Wisconsin
+La Crosse County,La Crosse,Wisconsin
+Lafayette County,Darlington,Wisconsin
+Langlade County,Antigo,Wisconsin
+Lincoln County,Merrill,Wisconsin
+Manitowoc County,Manitowoc,Wisconsin
+Marathon County,Wausau,Wisconsin
+Marinette County,Marinette,Wisconsin
+Marquette County,Montello,Wisconsin
+Menominee County,Keshena,Wisconsin
+Milwaukee County,Milwaukee,Wisconsin
+Monroe County,Sparta,Wisconsin
+Oconto County,Oconto,Wisconsin
+Oneida County,Rhinelander,Wisconsin
+Outagamie County,Appleton,Wisconsin
+Ozaukee County,Port Washington,Wisconsin
+Pepin County,Durand,Wisconsin
+Pierce County,Ellsworth,Wisconsin
+Polk County,Balsam Lake,Wisconsin
+Portage County,Stevens Point,Wisconsin
+Price County,Phillips,Wisconsin
+Racine County,Racine,Wisconsin
+Richland County,Richland Center,Wisconsin
+Rock County,Janesville,Wisconsin
+Rusk County,Ladysmith,Wisconsin
+Sauk County,Baraboo,Wisconsin
+Sawyer County,Hayward,Wisconsin
+Shawano County,Shawano,Wisconsin
+Sheboygan County,Sheboygan,Wisconsin
+St. Croix County,Hudson,Wisconsin
+Taylor County,Medford,Wisconsin
+Trempealeau County,Whitehall,Wisconsin
+Vernon County,Viroqua,Wisconsin
+Vilas County,Eagle River,Wisconsin
+Walworth County,Elkhorn,Wisconsin
+Washburn County,Shell Lake,Wisconsin
+Washington County,West Bend,Wisconsin
+Waukesha County,Waukesha,Wisconsin
+Waupaca County,Waupaca,Wisconsin
+Waushara County,Wautoma,Wisconsin
+Winnebago County,Oshkosh,Wisconsin
+Wood County,Wisconsin Rapids,Wisconsin
+A new county formed from part of ,Tuskola County,Wisconsin
+Albany County,Laramie,Wyoming
+Big Horn County,Basin,Wyoming
+Campbell County,Gillette,Wyoming
+Carbon County,Rawlins,Wyoming
+Converse County,Douglas,Wyoming
+Crook County,Sundance,Wyoming
+Fremont County,Lander,Wyoming
+Goshen County,Torrington,Wyoming
+Hot Springs County,Thermopolis,Wyoming
+Johnson County,Buffalo,Wyoming
+Laramie County,Cheyenne,Wyoming
+Lincoln County,Kemmerer,Wyoming
+Natrona County,Casper,Wyoming
+Niobrara County,Lusk,Wyoming
+Park County,Cody,Wyoming
+Platte County,Wheatland,Wyoming
+Sheridan County,Sheridan,Wyoming
+Sublette County,Pinedale,Wyoming
+Sweetwater County,Green River,Wyoming
+Teton County,Jackson,Wyoming
+Uinta County,Evanston,Wyoming
+Washakie County,Worland,Wyoming
+Weston County,Newcastle,Wyoming

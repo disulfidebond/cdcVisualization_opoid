@@ -1,0 +1,392 @@
+Jefferson County,Alabama,urban
+Hoover, AL,unknown
+Madison County,Alabama,urban
+Mobile County,Alabama,urban
+Montgomery County,Alabama,urban
+Tuscaloosa County,Alabama,urban
+Anchorage, AK,unknown
+Avondale, AZ,unknown
+Chandler, AZ,unknown
+Gilbert, AZ,unknown
+Glendale, AZ,unknown
+Mesa, AZ,unknown
+Peoria, AZ,unknown
+Maricopa County,Arizona,urban
+Scottsdale, AZ,unknown
+Surprise, AZ,unknown
+Tempe, AZ,unknown
+Pima County,Arizona,urban
+Yuma County,Arizona,urban
+Washington County,Arkansas,urban
+Fort Smith, AR,unknown
+Craighead County,Arkansas,urban
+Pulaski County,Arkansas,urban
+Springdale, AR,unknown
+Orange County,CA,urban
+Contra Costa County,California,urban
+San Bernandino County,CA,urban
+Kern County,California,urban
+San Diego County,CA,urban
+Butte County,CA,urban
+Sacramento County,CA,urban
+Riverside County,CA,urban
+San Mateo County,CA,urban
+Solano County,California,urban
+Fresno County,California,urban
+Los Angeles County,California,urban
+San Joaquin County,CA,urban
+Merced County,California,urban
+Santa Clara County,CA,urban
+Stanislaus County,California,urban
+Napa County,California,urban
+Alameda County,California,urban
+Ventura County,CA,urban
+Shasta County,California,urban
+San Mateo County,California,urban
+Riverside County,California,urban
+Placer County,CA,urban
+Sacramento County,California,urban
+Monterey County,California,urban
+San Bernardino County,California,urban
+San Diego County,California,urban
+San Francisco County,CA,urban
+Santa Clara County,California,urban
+Orange County,California,urban
+Santa Barbara County,California,urbann
+Sonoma County,California,urban
+San Joaquin County,California,urban
+Solano County,CA,urban
+Tulare County,California,urban
+Arvada, CO,unknown
+Aurora, CO,unknown
+Boulder County,Colorado,urban
+Centennial, CO,unknown
+El Paso County,Colorado,urban
+Denver, CO,unknown
+Larimer County,Colorado,urban
+Weld County,Colorado,urban
+Lakewood, CO,unknown
+Longmont, CO,unknown
+Loveland, CO,unknown
+Pueblo County,Colorado,urban
+Thornton, CO,unknown
+Westminster, CO,unknown
+Fairfield County,Connecticut,urban
+Danbury, CT,unknown
+Hartford County,Connecticut,urban
+New Britain, CT,unknown
+New Haven County,Connecticut,urban
+Norwalk, CT,unknown
+Stamford, CT,unknown
+Waterbury, CT,unknown
+New Castle County,Delaware,urban
+Washington,DC,urban
+Lee County, Florida,urban
+Pinellas County,Florida,urban
+Volusia County, Florida,urban
+Broward County,Florida,urban
+Alachua County,Florida,urban
+Duval County,Florida,urban
+Polk County, Florida,urban
+Brevard County, Florida,urban
+Miami-Dade County,Florida,urban
+Orange County,Florida,urban
+Flagler County,Florida,urban
+St. Lucie County,Florida,urban
+Leon County,Florida,urban
+Hillsborough County,Florida,urban
+Palm Beach County,Florida,urban
+Dougherty County,Georgia,urban
+Clarke County,Georgia,urban
+Fulton County,Georgia,urban
+Richmond County,Georgia,urban
+Muscogee County,Georgia,urban
+Johns Creek, GA,unknown
+Bibb County,Georgia,urban
+Roswell, GA,unknown
+Sandy Springs, GA,unknown
+Chatham County,Georgia,urban
+Warner Robins, GA,unknown
+Honolulu, HI,unknown
+Boise City, ID,unknown
+Meridian, ID,unknown
+Nampa, ID,unknown
+Arlington Heights, IL,unknown
+Aurora, IL,unknown
+McLean County,Illinois,urban
+Bolingbrook, IL,unknown
+Champaign, IL,unknown
+Cook County,Illinois,urban
+Cicero, IL,unknown
+Macon County,Illinois,urban
+Elgin, IL,unknown
+Evanston, IL,unknown
+Will County,Illinois,urban
+Naperville, IL,unknown
+Palatine, IL,unknown
+Peoria County,Illinois,urban
+Winnebago County,Illinois,urban
+Schaumburg, IL,unknown
+Sangamon County,Illinois,urban
+Lake County,Illinois,urban
+Monroe County,Indiana,urban
+Carmel, IN,unknown
+Vanderburgh County,Indiana,urban
+Fishers, IN,unknown
+Allen County,Indiana,urban
+Gary, IN,unknown
+Hammond, IN,unknown
+Marion County,Indiana,urban
+Tippecanoe County,Indiana,urban
+Delaware County,Indiana,urban
+St. Joseph County,Indiana,urban
+Linn County,Iowa,urban
+Scott County,Iowa,urban
+Polk County,Iowa,urban
+Johnson County,Iowa,urban
+Woodbury County,Iowa,urban
+Black Hawk County,Iowa,urban
+Wyandotte County,Kansas,urban
+Douglas County,Kansas,urban
+Johnson County,Kansas,urban
+Overland Park, KS,unknown
+Shawnee County,Kansas,urban
+Sedgwick County,Kansas,urban
+Fayette County,Kentucky,urban
+Jefferson County,Kentucky,urban
+East Baton Rouge County,LA,urban
+Jefferson County,LA,urban
+Lafayette County,LA,urban
+Calcasieu County,LA,urban
+Orleans County,LA,urban
+Caddo County,LA,urban
+Cumberland County,Maine,urban
+Baltimore,MD,urban
+Suffolk County,Massachusetts,urban
+Plymouth County,MA,urban
+Middlesex County,Massachusetts,urban
+Bristol County,MA,urban
+Essex County,MA,urban
+Norflok County,MA,urban
+Hampden County,Massachusetts,urban
+Worcester County,Massachusetts,urban
+Washtenaw County,Michigan,urban
+Dearborn, MI,unknown
+Wayne County,Michigan,urban
+Farmington Hills, MI,unknown
+Genesee County,Michigan,urban
+Kent County,Michigan,urban
+Kalamazoo County,Michigan,urban
+Lansing, MI,unknown
+Livonia, MI,unknown
+Rochester Hills, MI,unknown
+Southfield, MI,unknown
+Sterling Heights, MI,unknown
+Troy, MI,unknown
+Warren, MI,unknown
+Westland, MI,unknown
+Wyoming, MI,unknown
+Bloomington, MN,unknown
+Brooklyn Park, MN,unknown
+Saint Louis County,Minnesota,urban
+Hennepin County,Minnesota,urban
+Plymouth, MN,unknown
+Olmsted County,Minnesota,urban
+St. Paul, MN,unknown
+Harrison County,Mississippi,urban
+Jackson, MS,unknown
+Boone County,Missouri,urban
+Independence, MO,unknown
+Jackson County,Missouri,urban
+Lee's Summit, MO,unknown
+O'Fallon, MO,unknown
+St. Joseph, MO,unknown
+St. Louis, MO,unknown
+Greene County,Missouri,urban
+Yellowstone County,Montana,urban
+Missoula County,Montana,urban
+Lancaster County,Nebraska,urban
+Douglas County,Nebraska,urban
+Henderson, NV,unknown
+Clark County,Nevada,urban
+North Las Vegas, NV,unknown
+Washoe County,Nevada,urban
+Sparks, NV,unknown
+Manchester, NH,unknown
+Nashua, NH,unknown
+Camden, NJ,unknown
+Clifton, NJ,unknown
+Elizabeth, NJ,unknown
+Jersey City, NJ,unknown
+Newark, NJ,unknown
+Passaic, NJ,unknown
+Paterson, NJ,unknown
+Trenton, NJ,unknown
+Union City, NJ,unknown
+Albuquerque, NM,unknown
+Las Cruces, NM,unknown
+Rio Rancho, NM,unknown
+Santa Fe, NM,unknown
+Albany, NY,unknown
+Buffalo, NY,unknown
+Mount Vernon, NY,unknown
+New Rochelle, NY,unknown
+New York, NY,unknown
+Rochester, NY,unknown
+Schenectady, NY,unknown
+Syracuse, NY,unknown
+Yonkers, NY,unknown
+Asheville, NC,unknown
+Cary, NC,unknown
+Charlotte, NC,unknown
+Concord, NC,unknown
+Durham, NC,unknown
+Fayetteville, NC,unknown
+Gastonia, NC,unknown
+Greensboro, NC,unknown
+Greenville, NC,unknown
+High Point, NC,unknown
+Jacksonville, NC,unknown
+Raleigh, NC,unknown
+Wilmington, NC,unknown
+Winston-Salem, NC,unknown
+Fargo, ND,unknown
+Summit County,Ohio,urban
+Stark County,Ohio,urban
+Hamilton County,Ohio,urban
+Cuyahoga County,Ohio,urban
+Franklin County,Ohio,urban
+Montgomery County,Ohio,urban
+Parma, OH,unknown
+Lucas County,Ohio,urban
+Mahoning County,Ohio,urban
+Broken Arrow, OK,unknown
+Edmond, OK,unknown
+Comanche County,Oklahoma,urban
+Cleveland County,Oklahoma,urban
+Oklahoma County,Oklahoma,urban
+Tulsa County,Oklahoma,urban
+Beaverton, OR,unknown
+Deschutes County,Oregon,urban
+Lane County,Oregon,urban
+Gresham, OR,unknown
+Washington County,Oregon,urban
+Jackson County,Oregon,urban
+Multnomah County,Oregon,urban
+Marion County,Oregon,urban
+Lehigh County,Pennsylvania,urban
+Bethlehem, PA,unknown
+Erie County,Pennsylvania,urban
+Philadelphia County,Pennsylvania,urban
+Allegheny County,Pennsylvania,urban
+Berks County,Pennsylvania,urban
+Lackawanna County,Pennsylvania,urban
+Cranston, RI,unknown
+Pawtucket, RI,unknown
+Providence, RI,unknown
+Warwick, RI,unknown
+Charleston, SC,unknown
+Columbia, SC,unknown
+Mount Pleasant, SC,unknown
+North Charleston, SC,unknown
+Rock Hill, SC,unknown
+Rapid City, SD,unknown
+Sioux Falls, SD,unknown
+Hamilton County,Tennessee,urban
+Montgomery County,Tennessee,urban
+Knox County,Tennessee,urban
+Shelby County,Tennessee,urban
+Rutherford County,Tennessee,urban
+Davidson County,Tennessee,urban
+Taylor County,Texas,urban
+Allen, TX,unknown
+Potter County,Texas,urban
+Arlington, TX,unknown
+Travis County,Texas,urban
+Baytown, TX,unknown
+Jefferson County,Texas,urban
+Cameron County,Texas,urban
+Brazos County,Texas,urban
+Carrollton, TX,unknown
+College Station, TX,unknown
+Nueces County,Texas,urban
+Dallas County,Texas,urban
+Denton County,Texas,urban
+Hidalgo County,Texas,urban
+El Paso County,Texas,urban
+Tarrant County,Texas,urban
+Frisco, TX,unknown
+Garland, TX,unknown
+Grand Prairie, TX,unknown
+Harris County,Texas,urban
+Irving, TX,unknown
+Killeen, TX,unknown
+Webb County,Texas,urban
+League City, TX,unknown
+Lewisville, TX,unknown
+Gregg County,Texas,urban
+Lubbock County,Texas,urban
+McAllen, TX,unknown
+Collin County,Texas,urban
+Mesquite, TX,unknown
+Midland County,Texas,urban
+Mission, TX,unknown
+Missouri City, TX,unknown
+Ector County,Texas,urban
+Pasadena, TX,unknown
+Pearland, TX,unknown
+Pharr, TX,unknown
+Plano, TX,unknown
+Richardson, TX,unknown
+Round Rock, TX,unknown
+Tom Green County,Texas,urban
+Bexar County,Texas,urban
+Sugar Land, TX,unknown
+Smith County,Texas,urban
+McLennan County,Texas,urban
+Wichita County,Texas,urban
+Layton, UT,unknown
+Weber County,Utah,urban
+Orem, UT,unknown
+Utah County,Utah,urban
+Washington County,Utah,urban
+Salt Lake County,Utah,urban
+Sandy, UT,unknown
+West Jordan, UT,unknown
+West Valley City, UT,unknown
+Chittenden County,Vermont,urban
+Alexandria, VA,unknown
+Chesapeake, VA,unknown
+Hampton, VA,unknown
+Lynchburg, VA,unknown
+Newport News, VA,unknown
+Norfolk, VA,unknown
+Portsmouth, VA,unknown
+Richmond, VA,unknown
+Roanoke, VA,unknown
+Suffolk, VA,unknown
+Virginia Beach, VA,unknown
+Auburn, WA,unknown
+Bellevue, WA,unknown
+Whatcom County,Washington,urban
+Snohomish County,Washington,urban
+Federal Way, WA,unknown
+Kennewick, WA,unknown
+Kent, WA,unknown
+Renton, WA,unknown
+King County,Washington,urban
+Spokane County,Washington,urban
+Spokane Valley, WA,unknown
+Pierce County,Washington,urban
+Clark County,Washington,urban
+Yakima County,Washington,urban
+Charleston, WV,unknown
+Outagamie County,Wisconsin,urban
+Brown County,Wisconsin,urban
+Kenosha County,Wisconsin,urban
+Dane County,Wisconsin,urban
+Milwaukee County,Wisconsin,urban
+Racine County,Wisconsin,urban
+Waukesha County,Wisconsin,urban
+Laramie County,Wyoming,urban
+
