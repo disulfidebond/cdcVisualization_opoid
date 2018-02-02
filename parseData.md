@@ -66,10 +66,20 @@
 
   * Since classifying rural and urban was outside the scope of this experiment, a simplified approach was employed.
   
-  * A listing of the [500 largest cities](https://www.cdc.gov/500cities/pdf/500-cities-listed-by-state.pdf) in the US from the US Census bureau was used; this included all 50 states.
-  
-    * The cities were mapped back to the counties using [a few customized scripts](https://github.com/disulfidebond/cdcVisualization_opoid/blob/master/a_few_customized_scripts.txt), which created a list of rural and urban datapoints.
+  * A listing of the [500 largest cities](https://www.cdc.gov/500cities/pdf/500-cities-listed-by-state.pdf) in the US from the US Census bureau was used; this included all 50 states.  Counties were mapped as urban using this as a guide with the following criteria: 
     
+    
+    * Any county with a listed city was marked as urban
+    
+    * If a city spanned multiple counties, all were marked as urban.
+    
+    * If a city was independent, or had no county attached to it (example: Baltimore, MD and Washington, DC), then the city was included instead of the county, and was then attempted to be matched against the county listing as urban.
+  
+  * The cities were mapped back to the counties using [a few customized scripts](https://github.com/disulfidebond/cdcVisualization_opoid/blob/master/a_few_customized_scripts.txt) and a [python script](https://github.com/disulfidebond/cdcVisualization_opoid/tree/master), which created a list of rural and urban datapoints.
+    
+  * This list was then used to plot urban versus rural, and contrast time across states.
+    
+4) Machine Learning.  Using the criteria previously described, a model was setup to first train  
   
     
     
