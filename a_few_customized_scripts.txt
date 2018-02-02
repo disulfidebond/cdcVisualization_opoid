@@ -89,8 +89,76 @@ close $fho;
 ####
 # finally, python was again employed to match county to city, and create "urban" and "rural" flags.
 
+# this worked for about 1/3 of the cities
+
+#!/usr/bin/python
+import re
 
 
-# the output list had to be curated and was error-prone, however, all that was needed was to match the 
-# high-population cities to their counties and flag these as urban, all the remaining would be flagged as rural
+l = []
+
+with open('concatList.txt', 'r') as f:
+	for i in f:
+		i = i.rstrip('\r\n')
+		iSplit = i.split(',')
+		try:
+			itms = (iSplit[1],(iSplit[2],iSplit[0]))
+			l.append(itms)
+		except IndexError:
+			l.append((iSplit), (None, None))
+cList = []
+# "Alabama"#
+with open('parsedAndFlaggedCitiesList.txt', 'r') as f:
+	for i in f:
+		i = i.rstrip('\r\n')
+		cList.append(i)
+		
+currentState = ""
+confirmedCountyList = []
+unmatchedList = []
+for itm in cList:
+	m = re.search('#', itm)
+	if m: 
+		itmStrip = itm.replace('"', '')
+		currentState = itmStrip[:-1]
+		citiesInState = []
+	else:
+		itmSplit = itm.split('"')
+		cityState = itmSplit[-1]
+		cityStateSplit = cityState.split(',')
+		city = cityStateSplit[0]
+		city = city[1:]
+		matched = False
+		for cityTuple,stateTuple in l:
+			if city == cityTuple:
+				if stateTuple[0] == currentState:
+					outputString = stateTuple[1] + ',' + stateTuple[0]
+					confirmedCountyList.append((outputString, 'urban'))
+					matched = True
+		if not matched:
+			unknownString = city + ',' + cityStateSplit[1]
+			confirmedCountyList.append((unknownString, 'unknown'))
+			unmatchedList.append((city,cityStateSplit[1]))
+# llen = len(confirmedCountyList)
+# print('Found matches for ' + str(llen) + ' cities, which are the following:')
+for itm in confirmedCountyList:
+	print(str(itm[0]) + ',' + str(itm[1]))
+
+print('\n')
+llen = len(unmatchedList)
+print('Could not find matches for ' + str(llen) + ' cities, which are the following:')
+for itm in unmatchedList:
+	print(str(itm[0]) + ',' + str(itm[1]))
+
+
+
+# The output list had to be curated and was error-prone.  However, all that was needed was to match the 
+# high-population cities to their counties and flag these as urban.
+
+# The final urban cities list was checked by creating a simple dictionary of the states
+# then comparing it against a list of 50 states
+
+
+
+
 
