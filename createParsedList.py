@@ -1,5 +1,17 @@
 #!/usr/bin/python
+import sys
 
+lParse = []
+try:
+	type(sys.argv[1])
+except IndexError:
+	print('Error, could not read file')
+	sys.exit()
+inputFile = sys.argv[1]
+with open(inputFile, 'r') as f:
+	for i in f:
+		i = i.rstrip('\r\n')
+		lParse.append(i)
 
 statesDict = dict()
 with open('listOfStates.txt', 'r') as f:
@@ -20,7 +32,8 @@ with open('urbanList.txt.csv', 'r') as f1:
 			uList.append(iSplit)
 		else:
 			continue
-		
+
+	
 
 for itm in uList:
 	convKey = itm[1]
@@ -30,12 +43,6 @@ for itm in uList:
 	else:
 		itm[1] = (convKey,convKey)
 
-# 16079,Shoshone,ID,16079,94.1
-lParse = []
-with open('rxcounty2006.html.values.txt.parsed.txt', 'r') as f3:
-	for i in f3:
-		i = i.rstrip('\r\n')
-		lParse.append(i)
 pResult = []
 for p in lParse:
 	pCheck = p.split(',')
@@ -50,6 +57,13 @@ for p in lParse:
 		pCheck[-1] = 'rural'
 	pResult.append(pCheck)
 
+
 for r in pResult:
-	o = r[0] + ',' + r[1] + ',' + r[2] + ',' + r[3] + ',' + r[4] + ',' + r[5]
+	checkForNull = r[4]
+	cast4AsFloat = 0.0
+	try:
+		cast4AsFloat = float(checkForNull)
+	except ValueError:
+		cast4AsFloat = cast4AsFloat
+	o = r[0] + ',' + r[1] + ',' + r[2] + ',' + r[3] + ',' + str(cast4AsFloat) + ',' + r[5]
 	print(o)
