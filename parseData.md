@@ -75,9 +75,13 @@
     
     * If a city was independent, or had no county attached to it (example: Baltimore, MD and Washington, DC), then the city was included instead of the county, and was then attempted to be matched against the county listing as urban.
   
-  * The cities were mapped back to the counties using [a few customized scripts](https://github.com/disulfidebond/cdcVisualization_opoid/blob/master/a_few_customized_scripts.txt) and a [python script](https://github.com/disulfidebond/cdcVisualization_opoid/blob/master/createParsedList.py), which created a list of rural and urban datapoints.
+  * The cities were mapped back to the counties using [a few customized scripts](https://github.com/disulfidebond/cdcVisualization_opoid/blob/master/a_few_customized_scripts.txt) and a [python script](https://github.com/disulfidebond/cdcVisualization_opoid/blob/master/createParsedList.py), which created a list of rural and urban datapoints, and mapped the year back to the county.  If a county had no information for the prescription rate, it was scored with a "0".
     
   * This list was then used to plot urban versus rural, and contrast time across states.
+  
+    * For the first comparison, if the prescription rate for a county was >= 82.4, it was scored a "1".  Then, a Fisher's test was performed for rural vs. urban in a state to assess the difference of rural and urban settings in high opoid prescription rates.  The results are in table 1.
+    
+    * For the next comparison, the prescription rates of rural areas was plotted with respect to the time in years (see Figure 1).  This was repeated for urban areas (see Figure 2).  The correlation coefficients are shown.
     
 4) Machine Learning.  Using the criteria previously described, a model was setup to first train  
   
