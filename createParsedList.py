@@ -13,6 +13,8 @@ with open(inputFile, 'r') as f:
 		i = i.rstrip('\r\n')
 		lParse.append(i)
 
+yearLabel = sys.argv[2]
+
 statesDict = dict()
 with open('listOfStates.txt', 'r') as f:
 	for i in f:
@@ -65,5 +67,5 @@ for r in pResult:
 		cast4AsFloat = float(checkForNull)
 	except ValueError:
 		cast4AsFloat = cast4AsFloat
-	o = r[0] + ',' + r[1] + ',' + r[2] + ',' + r[3] + ',' + str(cast4AsFloat) + ',' + r[5]
+	o = r[0] + ',' + r[1] + ',' + r[2] + ',' + r[3] + ',' + str(cast4AsFloat) + ',' + r[5] + ',' + str(yearLabel)
 	print(o)
