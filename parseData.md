@@ -75,7 +75,7 @@
     
     * If a city was independent, or had no county attached to it (example: Baltimore, MD and Washington, DC), then the city was included instead of the county, and was then attempted to be matched against the county listing as urban.
   
-  * The cities were mapped back to the counties using [a few customized scripts](https://github.com/disulfidebond/cdcVisualization_opoid/blob/master/a_few_customized_scripts.txt) and a [python script](https://github.com/disulfidebond/cdcVisualization_opoid/tree/master), which created a list of rural and urban datapoints.
+  * The cities were mapped back to the counties using [a few customized scripts](https://github.com/disulfidebond/cdcVisualization_opoid/blob/master/a_few_customized_scripts.txt) and a [python script](https://github.com/disulfidebond/cdcVisualization_opoid/blob/master/createParsedList.py), which created a list of rural and urban datapoints.
     
   * This list was then used to plot urban versus rural, and contrast time across states.
     
