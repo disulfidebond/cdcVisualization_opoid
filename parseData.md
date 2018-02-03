@@ -79,11 +79,18 @@
     
   * This list was then used to plot urban versus rural, and contrast time across states.
   
-    * For the first comparison, if the prescription rate for a county was >= 82.4, it was scored a "1".  Then, a Fisher's test was performed for rural vs. urban in a state to assess the difference of rural and urban settings in high opoid prescription rates.  The results are in table 1.
+    * For the first comparison, if the prescription rate for a county was > 82, it was scored a "1".  Then, a student's t-test was performed for rural vs. urban in a state to assess the difference of rural and urban settings in high opoid prescription rates.  The results are in table 1.
     
-    * For the next comparison, the prescription rates of rural areas was plotted with respect to the time in years (see Figure 1).  This was repeated for urban areas (see Figure 2).  The correlation coefficients are shown.
+    * For the next comparison, the prescription rates of rural areas was plotted with respect to the time in years to visualize trends in how prescriptions for opoids increased or decreased with respect to time (see Figure 1).  This was repeated for urban areas (see Figure 2).  The correlation coefficients are shown.
     
-4) Machine Learning.  Using the criteria previously described, a model was setup to first train  
+4) Visualizing the prescription rates and other statistics will only show a portion of the problem, due to its inherent complexity.  For instance, the aforementioned calculations do not account for decreases or increases in income, economic fluctuations, and access to healthcare.  A better approach, therefore, would be to utiliza Machine Learning to more accurately study the problem at hand.
+
+    * To begin, a Random Forest Classifier was trained using the rural and urban data, then assessed for its ability to accurately predict rural and urban counties from the existing data.
+    
+    * Next, additional data from the [Kaiser foundation](https://www.kff.org/other/state-indicator/total-population/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D), which showed healthcare coverage in states, was added to the dataset, as was economic outlook data from the Bureau of Labor Statistics.
+    
+    
+ 
   
     
     
